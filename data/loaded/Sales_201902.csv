@@ -1,0 +1,866 @@
+date,first,last,addr,city,st,zip,prod_id,prod_desc,unit_price,qty,total
+2019-02-01 09:33:00,Piett,Johnston,4152 Prospect Street,Beaver,WV,25813,527,Toolbox,5000,1,5000
+2019-02-01 10:47:00,Snap,Rivera,7148 Jackson Avenue,Albion,RI,02802,504,Screw,50,2,100
+2019-02-01 10:47:00,Snap,Rivera,7148 Jackson Avenue,Albion,RI,02802,501,Washer,10,1,10
+2019-02-01 10:47:00,Snap,Rivera,7148 Jackson Avenue,Albion,RI,02802,510,Screwdriver,399,1,399
+2019-02-01 11:24:00,Tc-14,Barker,5853 Jefferson Court,North Waterboro,ME,04061,507,Paint,1800,1,1800
+2019-02-01 13:41:00,Obi-Wan,Miller,9760 Edgewood Road,Veedersburg,IN,47987,516,Mallet,1200,2,2400
+2019-02-01 13:41:00,Obi-Wan,Miller,9760 Edgewood Road,Veedersburg,IN,47987,513,Hammer,827,1,827
+2019-02-01 13:41:00,Obi-Wan,Miller,9760 Edgewood Road,Veedersburg,IN,47987,514,Plane,1099,1,1099
+2019-02-01 14:04:00,Dodonna,Barker,6191 Madison Street,Alexandria,MO,63430,522,Hacksaw,1998,1,1998
+2019-02-01 14:04:00,Dodonna,Barker,6191 Madison Street,Alexandria,MO,63430,525,Hatchet,3599,1,3599
+2019-02-01 14:04:00,Dodonna,Barker,6191 Madison Street,Alexandria,MO,63430,506,Sandpaper,300,2,600
+2019-02-01 14:04:00,Dodonna,Barker,6191 Madison Street,Alexandria,MO,63430,523,Saw,2099,1,2099
+2019-02-01 14:04:00,Dodonna,Barker,6191 Madison Street,Alexandria,MO,63430,527,Toolbox,5000,2,10000
+2019-02-01 14:04:00,Dodonna,Barker,6191 Madison Street,Alexandria,MO,63430,509,Clamp,299,1,299
+2019-02-01 14:04:00,Dodonna,Barker,6191 Madison Street,Alexandria,MO,63430,529,Workbench,30000,1,30000
+2019-02-01 14:04:00,Dodonna,Barker,6191 Madison Street,Alexandria,MO,63430,515,Wrench,1100,2,2200
+2019-02-01 14:04:00,Dodonna,Barker,6191 Madison Street,Alexandria,MO,63430,508,Bradawl,199,1,199
+2019-02-01 14:04:00,Dodonna,Barker,6191 Madison Street,Alexandria,MO,63430,507,Paint,1800,1,1800
+2019-02-01 14:04:00,Dodonna,Barker,6191 Madison Street,Alexandria,MO,63430,520,Anvil,1620,1,1620
+2019-02-01 14:06:00,Fode/Beed,Le,2866 Devonshire Drive,Carson,WA,98610,525,Hatchet,3599,2,7198
+2019-02-01 14:06:00,Fode/Beed,Le,2866 Devonshire Drive,Carson,WA,98610,511,Chisel,499,1,499
+2019-02-01 15:16:00,Tey How,Mcdaniel,7547 Edgewood Road,Callaway,NE,68825,516,Mallet,1200,1,1200
+2019-02-01 15:16:00,Tey How,Mcdaniel,7547 Edgewood Road,Callaway,NE,68825,505,Bolt,100,2,200
+2019-02-01 15:16:00,Tey How,Mcdaniel,7547 Edgewood Road,Callaway,NE,68825,508,Bradawl,199,1,199
+2019-02-01 15:16:00,Tey How,Mcdaniel,7547 Edgewood Road,Callaway,NE,68825,510,Screwdriver,399,1,399
+2019-02-01 15:16:00,Tey How,Mcdaniel,7547 Edgewood Road,Callaway,NE,68825,501,Washer,10,1,10
+2019-02-01 15:16:00,Tey How,Mcdaniel,7547 Edgewood Road,Callaway,NE,68825,513,Hammer,827,1,827
+2019-02-01 15:16:00,Tey How,Mcdaniel,7547 Edgewood Road,Callaway,NE,68825,502,Nail,25,1,25
+2019-02-01 15:16:00,Tey How,Mcdaniel,7547 Edgewood Road,Callaway,NE,68825,509,Clamp,299,1,299
+2019-02-01 17:39:00,Lama Su,Garza,179 Franklin Court,Wingate,MD,21675,521,Drill,6900,1,6900
+2019-02-01 17:39:00,Lama Su,Garza,179 Franklin Court,Wingate,MD,21675,511,Chisel,499,1,499
+2019-02-01 17:39:00,Lama Su,Garza,179 Franklin Court,Wingate,MD,21675,505,Bolt,100,1,100
+2019-02-01 17:39:00,Lama Su,Garza,179 Franklin Court,Wingate,MD,21675,520,Anvil,1620,1,1620
+2019-02-01 17:39:00,Lama Su,Garza,179 Franklin Court,Wingate,MD,21675,506,Sandpaper,300,1,300
+2019-02-01 17:39:00,Lama Su,Garza,179 Franklin Court,Wingate,MD,21675,501,Washer,10,1,10
+2019-02-02 09:46:00,Tc-14,Jennings,4692 2nd Street,Wilmington,DE,19801,501,Washer,10,2,20
+2019-02-02 09:46:00,Tc-14,Jennings,4692 2nd Street,Wilmington,DE,19801,526,Wire,3700,1,3700
+2019-02-02 09:46:00,Tc-14,Jennings,4692 2nd Street,Wilmington,DE,19801,512,Scraper,799,1,799
+2019-02-02 10:44:00,Unkar Plutt,Benson,3640 Magnolia Court,Bryants Store,KY,40921,506,Sandpaper,300,1,300
+2019-02-02 10:44:00,Unkar Plutt,Benson,3640 Magnolia Court,Bryants Store,KY,40921,521,Drill,6900,1,6900
+2019-02-02 10:44:00,Unkar Plutt,Benson,3640 Magnolia Court,Bryants Store,KY,40921,503,Nut,25,2,50
+2019-02-02 10:44:00,Unkar Plutt,Benson,3640 Magnolia Court,Bryants Store,KY,40921,524,Axe,2799,1,2799
+2019-02-02 10:44:00,Unkar Plutt,Benson,3640 Magnolia Court,Bryants Store,KY,40921,504,Screw,50,1,50
+2019-02-02 11:26:00,Snap,Miller,2240 3rd Street,Philipp,MS,38950,525,Hatchet,3599,1,3599
+2019-02-02 11:26:00,Snap,Miller,2240 3rd Street,Philipp,MS,38950,512,Scraper,799,1,799
+2019-02-02 11:26:00,Snap,Miller,2240 3rd Street,Philipp,MS,38950,514,Plane,1099,1,1099
+2019-02-02 11:26:00,Snap,Miller,2240 3rd Street,Philipp,MS,38950,510,Screwdriver,399,3,1197
+2019-02-02 11:26:00,Snap,Miller,2240 3rd Street,Philipp,MS,38950,501,Washer,10,1,10
+2019-02-02 11:26:00,Snap,Miller,2240 3rd Street,Philipp,MS,38950,505,Bolt,100,1,100
+2019-02-02 11:26:00,Snap,Miller,2240 3rd Street,Philipp,MS,38950,502,Nail,25,2,50
+2019-02-02 11:26:00,Snap,Miller,2240 3rd Street,Philipp,MS,38950,513,Hammer,827,1,827
+2019-02-02 11:26:00,Snap,Miller,2240 3rd Street,Philipp,MS,38950,503,Nut,25,1,25
+2019-02-02 11:26:00,Snap,Miller,2240 3rd Street,Philipp,MS,38950,506,Sandpaper,300,1,300
+2019-02-02 11:33:00,Snap,Miller,2240 3rd Street,Philipp,MS,38950,521,Drill,6900,1,6900
+2019-02-02 11:33:00,Snap,Miller,2240 3rd Street,Philipp,MS,38950,505,Bolt,100,1,100
+2019-02-02 14:53:00,Plo Koon,Jimenez,6255 Williams Street,Accomac,VA,23301,525,Hatchet,3599,2,7198
+2019-02-02 14:53:00,Plo Koon,Jimenez,6255 Williams Street,Accomac,VA,23301,519,Monkeywrench,2995,2,5990
+2019-02-02 14:53:00,Plo Koon,Jimenez,6255 Williams Street,Accomac,VA,23301,515,Wrench,1100,1,1100
+2019-02-02 15:50:00,Gold Leader,Mitchell,8402 Lake Avenue,Black Eagle,MT,59414,514,Plane,1099,1,1099
+2019-02-02 15:50:00,Gold Leader,Mitchell,8402 Lake Avenue,Black Eagle,MT,59414,528,Ladder,8000,1,8000
+2019-02-02 15:50:00,Gold Leader,Mitchell,8402 Lake Avenue,Black Eagle,MT,59414,512,Scraper,799,1,799
+2019-02-02 15:50:00,Gold Leader,Mitchell,8402 Lake Avenue,Black Eagle,MT,59414,509,Clamp,299,1,299
+2019-02-02 15:50:00,Gold Leader,Mitchell,8402 Lake Avenue,Black Eagle,MT,59414,507,Paint,1800,1,1800
+2019-02-02 15:50:00,Gold Leader,Mitchell,8402 Lake Avenue,Black Eagle,MT,59414,529,Workbench,30000,1,30000
+2019-02-02 15:50:00,Gold Leader,Mitchell,8402 Lake Avenue,Black Eagle,MT,59414,515,Wrench,1100,1,1100
+2019-02-02 16:03:00,Lama Su,Vincent,2049 Route 44,Salome,AZ,85348,508,Bradawl,199,1,199
+2019-02-02 16:03:00,Lama Su,Vincent,2049 Route 44,Salome,AZ,85348,523,Saw,2099,1,2099
+2019-02-02 16:03:00,Lama Su,Vincent,2049 Route 44,Salome,AZ,85348,503,Nut,25,1,25
+2019-02-02 16:03:00,Lama Su,Vincent,2049 Route 44,Salome,AZ,85348,504,Screw,50,1,50
+2019-02-02 16:03:00,Lama Su,Vincent,2049 Route 44,Salome,AZ,85348,522,Hacksaw,1998,1,1998
+2019-02-02 16:03:00,Lama Su,Vincent,2049 Route 44,Salome,AZ,85348,515,Wrench,1100,1,1100
+2019-02-02 16:03:00,Lama Su,Vincent,2049 Route 44,Salome,AZ,85348,501,Washer,10,1,10
+2019-02-02 17:29:00,Lama Su,Vincent,2049 Route 44,Salome,AZ,85348,519,Monkeywrench,2995,1,2995
+2019-02-02 17:29:00,Lama Su,Vincent,2049 Route 44,Salome,AZ,85348,504,Screw,50,1,50
+2019-02-02 17:40:00,Orn Free Taa,Greene,1746 Route 44,Wiggins,CO,80654,514,Plane,1099,1,1099
+2019-02-02 17:40:00,Orn Free Taa,Greene,1746 Route 44,Wiggins,CO,80654,511,Chisel,499,1,499
+2019-02-02 17:40:00,Orn Free Taa,Greene,1746 Route 44,Wiggins,CO,80654,503,Nut,25,1,25
+2019-02-03 09:26:00,Captain Antilles,Elliott,6294 Heather Lane,San Juan,PR,00913,517,Pliers,1599,1,1599
+2019-02-03 09:26:00,Captain Antilles,Elliott,6294 Heather Lane,San Juan,PR,00913,527,Toolbox,5000,1,5000
+2019-02-03 09:26:00,Captain Antilles,Elliott,6294 Heather Lane,San Juan,PR,00913,508,Bradawl,199,1,199
+2019-02-03 10:23:00,Lama Su,Jennings,1963 Old York,Walnut Cove,NC,27052,501,Washer,10,1,10
+2019-02-03 11:42:00,Tey How,Barker,4683 Lexington Court,East Wallingford,VT,05742,501,Washer,10,1,10
+2019-02-03 11:42:00,Tey How,Barker,4683 Lexington Court,East Wallingford,VT,05742,528,Ladder,8000,1,8000
+2019-02-03 11:42:00,Tey How,Barker,4683 Lexington Court,East Wallingford,VT,05742,516,Mallet,1200,1,1200
+2019-02-03 11:42:00,Tey How,Barker,4683 Lexington Court,East Wallingford,VT,05742,512,Scraper,799,1,799
+2019-02-03 11:42:00,Tey How,Barker,4683 Lexington Court,East Wallingford,VT,05742,513,Hammer,827,1,827
+2019-02-03 11:42:00,Tey How,Barker,4683 Lexington Court,East Wallingford,VT,05742,520,Anvil,1620,1,1620
+2019-02-03 11:44:00,Bib Fortuna,Mitchell,8088 Lake Street,Collinston,UT,84306,510,Screwdriver,399,1,399
+2019-02-03 13:51:00,Senator Ask Aak,Miller,9727 Devonshire Drive,Ridgeland,MS,39157,519,Monkeywrench,2995,1,2995
+2019-02-03 13:51:00,Senator Ask Aak,Miller,9727 Devonshire Drive,Ridgeland,MS,39157,514,Plane,1099,1,1099
+2019-02-03 13:51:00,Senator Ask Aak,Miller,9727 Devonshire Drive,Ridgeland,MS,39157,528,Ladder,8000,2,16000
+2019-02-03 13:51:00,Senator Ask Aak,Miller,9727 Devonshire Drive,Ridgeland,MS,39157,518,Level,1698,1,1698
+2019-02-03 13:51:00,Senator Ask Aak,Miller,9727 Devonshire Drive,Ridgeland,MS,39157,509,Clamp,299,1,299
+2019-02-03 13:51:00,Senator Ask Aak,Miller,9727 Devonshire Drive,Ridgeland,MS,39157,516,Mallet,1200,2,2400
+2019-02-03 13:51:00,Senator Ask Aak,Miller,9727 Devonshire Drive,Ridgeland,MS,39157,521,Drill,6900,1,6900
+2019-02-03 15:08:00,Shmi,Thornton,7013 Beechwood Drive,Saint Johns,AZ,85936,505,Bolt,100,1,100
+2019-02-03 15:08:00,Shmi,Thornton,7013 Beechwood Drive,Saint Johns,AZ,85936,507,Paint,1800,1,1800
+2019-02-03 15:11:00,Darth Maul,Walters,7851 Magnolia Court,Hope,ND,58046,502,Nail,25,1,25
+2019-02-03 15:11:00,Darth Maul,Walters,7851 Magnolia Court,Hope,ND,58046,505,Bolt,100,1,100
+2019-02-03 15:12:00,Captain Antilles,Jimenez,1677 2nd Street East,Washington,DC,20551,524,Axe,2799,1,2799
+2019-02-03 15:12:00,Captain Antilles,Jimenez,1677 2nd Street East,Washington,DC,20551,506,Sandpaper,300,1,300
+2019-02-03 15:12:00,Captain Antilles,Jimenez,1677 2nd Street East,Washington,DC,20551,514,Plane,1099,1,1099
+2019-02-03 15:12:00,Captain Antilles,Jimenez,1677 2nd Street East,Washington,DC,20551,505,Bolt,100,1,100
+2019-02-03 15:12:00,Captain Antilles,Jimenez,1677 2nd Street East,Washington,DC,20551,504,Screw,50,1,50
+2019-02-03 16:56:00,Beru,Gordon,5261 9th Street,Waipahu,HI,96797,502,Nail,25,1,25
+2019-02-03 17:03:00,Dodonna,Francis,8070 Briarwood Court,Buckland,AK,99727,521,Drill,6900,1,6900
+2019-02-03 17:17:00,Plo Koon,Wood,8908 Strawberry Lane,Saukville,WI,53080,504,Screw,50,1,50
+2019-02-04 10:08:00,Tey How,Jennings,3672 Inverness Drive,Fort Washakie,WY,82514,501,Washer,10,1,10
+2019-02-04 11:01:00,On Medon,Lara,7845 Heather Lane,Magna,UT,84044,512,Scraper,799,1,799
+2019-02-04 12:16:00,Snap,Mcbride,5524 Hawthorne Lane,Donahue,IA,52746,518,Level,1698,1,1698
+2019-02-04 12:16:00,Snap,Mcbride,5524 Hawthorne Lane,Donahue,IA,52746,516,Mallet,1200,2,2400
+2019-02-04 12:16:00,Snap,Mcbride,5524 Hawthorne Lane,Donahue,IA,52746,529,Workbench,30000,1,30000
+2019-02-04 12:16:00,Snap,Mcbride,5524 Hawthorne Lane,Donahue,IA,52746,521,Drill,6900,1,6900
+2019-02-04 12:16:00,Snap,Mcbride,5524 Hawthorne Lane,Donahue,IA,52746,506,Sandpaper,300,1,300
+2019-02-04 12:16:00,Snap,Mcbride,5524 Hawthorne Lane,Donahue,IA,52746,517,Pliers,1599,1,1599
+2019-02-04 12:16:00,Snap,Mcbride,5524 Hawthorne Lane,Donahue,IA,52746,524,Axe,2799,1,2799
+2019-02-04 12:16:00,Snap,Mcbride,5524 Hawthorne Lane,Donahue,IA,52746,519,Monkeywrench,2995,1,2995
+2019-02-04 12:16:00,Snap,Mcbride,5524 Hawthorne Lane,Donahue,IA,52746,515,Wrench,1100,1,1100
+2019-02-04 13:20:00,Orn Free Taa,Rivera,4716 Jackson Avenue,Bethany,CT,06524,509,Clamp,299,1,299
+2019-02-04 13:20:00,Orn Free Taa,Rivera,4716 Jackson Avenue,Bethany,CT,06524,502,Nail,25,1,25
+2019-02-04 13:20:00,Orn Free Taa,Rivera,4716 Jackson Avenue,Bethany,CT,06524,518,Level,1698,1,1698
+2019-02-04 13:20:00,Orn Free Taa,Rivera,4716 Jackson Avenue,Bethany,CT,06524,525,Hatchet,3599,1,3599
+2019-02-04 13:20:00,Orn Free Taa,Rivera,4716 Jackson Avenue,Bethany,CT,06524,511,Chisel,499,1,499
+2019-02-04 13:53:00,Nute Gunray,Le,2553 Inverness Drive,South San Francisco,CA,94080,528,Ladder,8000,1,8000
+2019-02-04 13:53:00,Nute Gunray,Le,2553 Inverness Drive,South San Francisco,CA,94080,515,Wrench,1100,1,1100
+2019-02-04 13:53:00,Nute Gunray,Le,2553 Inverness Drive,South San Francisco,CA,94080,523,Saw,2099,2,4198
+2019-02-04 13:53:00,Nute Gunray,Le,2553 Inverness Drive,South San Francisco,CA,94080,504,Screw,50,1,50
+2019-02-04 13:53:00,Nute Gunray,Le,2553 Inverness Drive,South San Francisco,CA,94080,514,Plane,1099,1,1099
+2019-02-04 13:53:00,Nute Gunray,Le,2553 Inverness Drive,South San Francisco,CA,94080,513,Hammer,827,1,827
+2019-02-04 15:05:00,Piett,Ferguson,3652 Front Street,Talmage,UT,84073,510,Screwdriver,399,1,399
+2019-02-04 15:05:00,Piett,Ferguson,3652 Front Street,Talmage,UT,84073,504,Screw,50,1,50
+2019-02-04 15:05:00,Piett,Ferguson,3652 Front Street,Talmage,UT,84073,522,Hacksaw,1998,1,1998
+2019-02-04 15:16:00,Rabe,Rodriguez,5492 Front Street,Flippin,AR,72634,508,Bradawl,199,1,199
+2019-02-04 15:16:00,Rabe,Rodriguez,5492 Front Street,Flippin,AR,72634,511,Chisel,499,1,499
+2019-02-04 15:16:00,Rabe,Rodriguez,5492 Front Street,Flippin,AR,72634,516,Mallet,1200,1,1200
+2019-02-04 15:16:00,Rabe,Rodriguez,5492 Front Street,Flippin,AR,72634,519,Monkeywrench,2995,1,2995
+2019-02-04 15:16:00,Rabe,Rodriguez,5492 Front Street,Flippin,AR,72634,504,Screw,50,1,50
+2019-02-04 15:29:00,Captain Antilles,Rodriguez,4648 Lake Street,Barton City,MI,48705,520,Anvil,1620,1,1620
+2019-02-04 15:29:00,Captain Antilles,Rodriguez,4648 Lake Street,Barton City,MI,48705,518,Level,1698,2,3396
+2019-02-04 15:29:00,Captain Antilles,Rodriguez,4648 Lake Street,Barton City,MI,48705,504,Screw,50,1,50
+2019-02-04 15:29:00,Captain Antilles,Rodriguez,4648 Lake Street,Barton City,MI,48705,524,Axe,2799,1,2799
+2019-02-04 15:41:00,Rabe,Rodriguez,5492 Front Street,Flippin,AR,72634,526,Wire,3700,1,3700
+2019-02-04 15:41:00,Rabe,Rodriguez,5492 Front Street,Flippin,AR,72634,515,Wrench,1100,1,1100
+2019-02-04 15:41:00,Rabe,Rodriguez,5492 Front Street,Flippin,AR,72634,505,Bolt,100,1,100
+2019-02-04 15:41:00,Rabe,Rodriguez,5492 Front Street,Flippin,AR,72634,503,Nut,25,1,25
+2019-02-04 16:02:00,Taun We,Woodward,6912 Strawberry Lane,Erving,MA,01344,519,Monkeywrench,2995,1,2995
+2019-02-04 16:02:00,Taun We,Woodward,6912 Strawberry Lane,Erving,MA,01344,529,Workbench,30000,1,30000
+2019-02-04 16:02:00,Taun We,Woodward,6912 Strawberry Lane,Erving,MA,01344,516,Mallet,1200,2,2400
+2019-02-04 16:02:00,Taun We,Woodward,6912 Strawberry Lane,Erving,MA,01344,521,Drill,6900,1,6900
+2019-02-04 16:02:00,Taun We,Woodward,6912 Strawberry Lane,Erving,MA,01344,514,Plane,1099,1,1099
+2019-02-04 16:08:00,C-3Po,Alvarez,3798 Park Avenue,Shepherd,MT,59079,512,Scraper,799,1,799
+2019-02-04 16:08:00,C-3Po,Alvarez,3798 Park Avenue,Shepherd,MT,59079,517,Pliers,1599,1,1599
+2019-02-04 16:08:00,C-3Po,Alvarez,3798 Park Avenue,Shepherd,MT,59079,522,Hacksaw,1998,1,1998
+2019-02-04 16:08:00,C-3Po,Alvarez,3798 Park Avenue,Shepherd,MT,59079,524,Axe,2799,2,5598
+2019-02-04 16:08:00,C-3Po,Alvarez,3798 Park Avenue,Shepherd,MT,59079,511,Chisel,499,1,499
+2019-02-04 16:08:00,C-3Po,Alvarez,3798 Park Avenue,Shepherd,MT,59079,505,Bolt,100,1,100
+2019-02-04 16:23:00,Bala-Tik,Walker,8497 Washington Street,Greenwood,DE,19950,519,Monkeywrench,2995,1,2995
+2019-02-04 16:23:00,Bala-Tik,Walker,8497 Washington Street,Greenwood,DE,19950,504,Screw,50,1,50
+2019-02-05 11:23:00,Sola,Johnston,2757 Inverness Drive,Parmelee,SD,57566,510,Screwdriver,399,1,399
+2019-02-05 11:23:00,Sola,Johnston,2757 Inverness Drive,Parmelee,SD,57566,515,Wrench,1100,1,1100
+2019-02-05 11:23:00,Sola,Johnston,2757 Inverness Drive,Parmelee,SD,57566,502,Nail,25,1,25
+2019-02-05 11:51:00,Sola,Mcbride,7761 Jackson Avenue,Lance Creek,WY,82222,501,Washer,10,2,20
+2019-02-05 11:51:00,Sola,Mcbride,7761 Jackson Avenue,Lance Creek,WY,82222,510,Screwdriver,399,1,399
+2019-02-05 11:51:00,Sola,Mcbride,7761 Jackson Avenue,Lance Creek,WY,82222,503,Nut,25,1,25
+2019-02-05 11:51:00,Sola,Mcbride,7761 Jackson Avenue,Lance Creek,WY,82222,507,Paint,1800,1,1800
+2019-02-05 11:51:00,Sola,Mcbride,7761 Jackson Avenue,Lance Creek,WY,82222,518,Level,1698,2,3396
+2019-02-05 11:51:00,Sola,Mcbride,7761 Jackson Avenue,Lance Creek,WY,82222,523,Saw,2099,1,2099
+2019-02-05 12:42:00,Bala-Tik,Rodriguez,7381 3rd Street,Wagner,SD,57380,520,Anvil,1620,1,1620
+2019-02-05 13:26:00,Taun We,Miller,4011 Sycamore Drive,Yellow Jacket,CO,81335,526,Wire,3700,1,3700
+2019-02-05 13:26:00,Taun We,Miller,4011 Sycamore Drive,Yellow Jacket,CO,81335,514,Plane,1099,1,1099
+2019-02-05 13:26:00,Taun We,Miller,4011 Sycamore Drive,Yellow Jacket,CO,81335,523,Saw,2099,1,2099
+2019-02-05 13:26:00,Taun We,Miller,4011 Sycamore Drive,Yellow Jacket,CO,81335,522,Hacksaw,1998,1,1998
+2019-02-05 13:26:00,Taun We,Miller,4011 Sycamore Drive,Yellow Jacket,CO,81335,512,Scraper,799,1,799
+2019-02-05 13:26:00,Taun We,Miller,4011 Sycamore Drive,Yellow Jacket,CO,81335,503,Nut,25,1,25
+2019-02-05 13:26:00,Taun We,Miller,4011 Sycamore Drive,Yellow Jacket,CO,81335,509,Clamp,299,1,299
+2019-02-05 13:27:00,Orn Free Taa,Benson,6973 Park Avenue,Fairplay,CO,80440,511,Chisel,499,1,499
+2019-02-05 13:27:00,Orn Free Taa,Benson,6973 Park Avenue,Fairplay,CO,80440,513,Hammer,827,1,827
+2019-02-05 13:27:00,Orn Free Taa,Benson,6973 Park Avenue,Fairplay,CO,80440,505,Bolt,100,1,100
+2019-02-05 13:27:00,Orn Free Taa,Benson,6973 Park Avenue,Fairplay,CO,80440,508,Bradawl,199,2,398
+2019-02-05 13:27:00,Orn Free Taa,Benson,6973 Park Avenue,Fairplay,CO,80440,509,Clamp,299,1,299
+2019-02-05 13:27:00,Orn Free Taa,Benson,6973 Park Avenue,Fairplay,CO,80440,527,Toolbox,5000,1,5000
+2019-02-05 14:00:00,Piett,Mccarthy,4997 Park Avenue,Patten,ME,04765,503,Nut,25,1,25
+2019-02-05 14:39:00,Obi-Wan,Mcbride,1037 Strawberry Lane,Kansas City,MO,64127,508,Bradawl,199,1,199
+2019-02-05 14:39:00,Obi-Wan,Mcbride,1037 Strawberry Lane,Kansas City,MO,64127,528,Ladder,8000,1,8000
+2019-02-05 14:39:00,Obi-Wan,Mcbride,1037 Strawberry Lane,Kansas City,MO,64127,512,Scraper,799,1,799
+2019-02-05 14:39:00,Obi-Wan,Mcbride,1037 Strawberry Lane,Kansas City,MO,64127,511,Chisel,499,1,499
+2019-02-05 14:39:00,Obi-Wan,Mcbride,1037 Strawberry Lane,Kansas City,MO,64127,519,Monkeywrench,2995,1,2995
+2019-02-05 15:20:00,Shmi,Mitchell,1517 Front Street South,Fox Lake,IL,60020,506,Sandpaper,300,1,300
+2019-02-05 16:04:00,Jango Fett,Woodward,3710 Magnolia Court,Greenville,RI,02828,510,Screwdriver,399,1,399
+2019-02-06 09:12:00,C-3Po,Le,4801 William Street,Ashley,ND,58413,501,Washer,10,1,10
+2019-02-06 09:18:00,Padme,Benson,6999 Route 44,Napier,WV,26631,508,Bradawl,199,1,199
+2019-02-06 09:18:00,Padme,Benson,6999 Route 44,Napier,WV,26631,527,Toolbox,5000,1,5000
+2019-02-06 09:45:00,Snap,Mcbride,5524 Hawthorne Lane,Donahue,IA,52746,519,Monkeywrench,2995,1,2995
+2019-02-06 12:33:00,Piett,Schmidt,6242 Lake Street,Birmingham,AL,35212,522,Hacksaw,1998,2,3996
+2019-02-06 12:33:00,Piett,Schmidt,6242 Lake Street,Birmingham,AL,35212,513,Hammer,827,1,827
+2019-02-06 12:33:00,Piett,Schmidt,6242 Lake Street,Birmingham,AL,35212,502,Nail,25,1,25
+2019-02-06 12:33:00,Piett,Schmidt,6242 Lake Street,Birmingham,AL,35212,510,Screwdriver,399,2,798
+2019-02-06 12:33:00,Piett,Schmidt,6242 Lake Street,Birmingham,AL,35212,508,Bradawl,199,1,199
+2019-02-06 12:33:00,Piett,Schmidt,6242 Lake Street,Birmingham,AL,35212,501,Washer,10,1,10
+2019-02-06 12:33:00,Piett,Schmidt,6242 Lake Street,Birmingham,AL,35212,511,Chisel,499,2,998
+2019-02-06 12:33:00,Piett,Schmidt,6242 Lake Street,Birmingham,AL,35212,527,Toolbox,5000,1,5000
+2019-02-06 12:33:00,Piett,Schmidt,6242 Lake Street,Birmingham,AL,35212,521,Drill,6900,1,6900
+2019-02-06 12:33:00,Piett,Schmidt,6242 Lake Street,Birmingham,AL,35212,518,Level,1698,1,1698
+2019-02-06 13:40:00,Plo Koon,Vincent,6199 Lake Avenue,Valley Ford,CA,94972,501,Washer,10,1,10
+2019-02-06 13:40:00,Plo Koon,Vincent,6199 Lake Avenue,Valley Ford,CA,94972,515,Wrench,1100,1,1100
+2019-02-07 10:11:00,Piett,Mccarthy,4997 Park Avenue,Patten,ME,04765,526,Wire,3700,1,3700
+2019-02-07 10:11:00,Piett,Mccarthy,4997 Park Avenue,Patten,ME,04765,501,Washer,10,1,10
+2019-02-07 10:11:00,Piett,Mccarthy,4997 Park Avenue,Patten,ME,04765,511,Chisel,499,1,499
+2019-02-07 10:11:00,Piett,Mccarthy,4997 Park Avenue,Patten,ME,04765,524,Axe,2799,1,2799
+2019-02-07 10:11:00,Piett,Mccarthy,4997 Park Avenue,Patten,ME,04765,506,Sandpaper,300,1,300
+2019-02-07 10:11:00,Piett,Mccarthy,4997 Park Avenue,Patten,ME,04765,523,Saw,2099,2,4198
+2019-02-07 10:44:00,On Medon,Curtis,2401 Edgewood Road,Baton Rouge,LA,70818,501,Washer,10,1,10
+2019-02-07 12:14:00,Rabe,Mccarthy,2540 Route 44,Union,WA,98592,511,Chisel,499,1,499
+2019-02-07 12:14:00,Rabe,Mccarthy,2540 Route 44,Union,WA,98592,523,Saw,2099,2,4198
+2019-02-07 12:14:00,Rabe,Mccarthy,2540 Route 44,Union,WA,98592,513,Hammer,827,1,827
+2019-02-07 12:14:00,Rabe,Mccarthy,2540 Route 44,Union,WA,98592,524,Axe,2799,1,2799
+2019-02-07 12:14:00,Rabe,Mccarthy,2540 Route 44,Union,WA,98592,512,Scraper,799,1,799
+2019-02-07 12:14:00,Rabe,Mccarthy,2540 Route 44,Union,WA,98592,527,Toolbox,5000,1,5000
+2019-02-07 12:14:00,Rabe,Mccarthy,2540 Route 44,Union,WA,98592,510,Screwdriver,399,1,399
+2019-02-07 13:22:00,Jobal,Johnston,8751 Beechwood Drive,Slickville,PA,15684,506,Sandpaper,300,1,300
+2019-02-07 13:22:00,Jobal,Johnston,8751 Beechwood Drive,Slickville,PA,15684,515,Wrench,1100,1,1100
+2019-02-07 13:45:00,Captain Antilles,Garza,1372 9th Street,Lane,SD,57358,504,Screw,50,1,50
+2019-02-07 13:45:00,Captain Antilles,Garza,1372 9th Street,Lane,SD,57358,526,Wire,3700,1,3700
+2019-02-07 13:45:00,Captain Antilles,Garza,1372 9th Street,Lane,SD,57358,509,Clamp,299,1,299
+2019-02-07 13:45:00,Captain Antilles,Garza,1372 9th Street,Lane,SD,57358,506,Sandpaper,300,1,300
+2019-02-07 14:50:00,Jabba,Thornton,8523 Hawthorne Lane,Wardsboro,VT,05355,515,Wrench,1100,2,2200
+2019-02-07 14:50:00,Jabba,Thornton,8523 Hawthorne Lane,Wardsboro,VT,05355,501,Washer,10,1,10
+2019-02-07 15:51:00,Bib Fortuna,Doyle,3286 Beechwood Drive,Burlington,VT,05401,517,Pliers,1599,1,1599
+2019-02-07 16:42:00,Clone Commander Cody,Vincent,1457 Valley Road,Honolulu,HI,96826,504,Screw,50,1,50
+2019-02-07 16:42:00,Clone Commander Cody,Vincent,1457 Valley Road,Honolulu,HI,96826,524,Axe,2799,2,5598
+2019-02-07 16:42:00,Clone Commander Cody,Vincent,1457 Valley Road,Honolulu,HI,96826,503,Nut,25,1,25
+2019-02-07 16:54:00,Gold Leader,Todd,508 Magnolia Court,Memphis,TN,38119,509,Clamp,299,1,299
+2019-02-07 16:54:00,Gold Leader,Todd,508 Magnolia Court,Memphis,TN,38119,507,Paint,1800,1,1800
+2019-02-07 16:54:00,Gold Leader,Todd,508 Magnolia Court,Memphis,TN,38119,522,Hacksaw,1998,1,1998
+2019-02-07 16:54:00,Gold Leader,Todd,508 Magnolia Court,Memphis,TN,38119,520,Anvil,1620,1,1620
+2019-02-07 16:54:00,Gold Leader,Todd,508 Magnolia Court,Memphis,TN,38119,524,Axe,2799,1,2799
+2019-02-07 16:54:00,Gold Leader,Todd,508 Magnolia Court,Memphis,TN,38119,515,Wrench,1100,1,1100
+2019-02-08 12:03:00,Taun We,Rivera,5813 Prospect Street,Yeso,NM,88136,523,Saw,2099,1,2099
+2019-02-08 12:35:00,Shmi,Thornton,7013 Beechwood Drive,Saint Johns,AZ,85936,512,Scraper,799,1,799
+2019-02-08 13:03:00,Captain Antilles,Curtis,2327 Prospect Street,Miami,FL,33127,512,Scraper,799,1,799
+2019-02-08 13:03:00,Captain Antilles,Curtis,2327 Prospect Street,Miami,FL,33127,521,Drill,6900,1,6900
+2019-02-08 13:19:00,Mace Windu,Burke,1863 Jackson Avenue,Washington,DC,20593,503,Nut,25,1,25
+2019-02-08 13:19:00,Mace Windu,Burke,1863 Jackson Avenue,Washington,DC,20593,502,Nail,25,1,25
+2019-02-08 16:11:00,Colonel Datoo,Jennings,2331 Jackson Avenue,Brooklyn,MD,21225,509,Clamp,299,1,299
+2019-02-08 16:30:00,Taun We,Woodward,6912 Strawberry Lane,Erving,MA,01344,505,Bolt,100,1,100
+2019-02-08 16:30:00,Taun We,Woodward,6912 Strawberry Lane,Erving,MA,01344,528,Ladder,8000,1,8000
+2019-02-08 16:30:00,Taun We,Woodward,6912 Strawberry Lane,Erving,MA,01344,526,Wire,3700,1,3700
+2019-02-08 16:30:00,Taun We,Woodward,6912 Strawberry Lane,Erving,MA,01344,522,Hacksaw,1998,1,1998
+2019-02-08 16:30:00,Taun We,Woodward,6912 Strawberry Lane,Erving,MA,01344,514,Plane,1099,1,1099
+2019-02-08 16:30:00,Taun We,Woodward,6912 Strawberry Lane,Erving,MA,01344,501,Washer,10,1,10
+2019-02-09 09:09:00,Sun Rit,Walker,3961 Beechwood Drive,Tonopah,AZ,85354,525,Hatchet,3599,1,3599
+2019-02-09 09:09:00,Sun Rit,Walker,3961 Beechwood Drive,Tonopah,AZ,85354,518,Level,1698,2,3396
+2019-02-09 09:09:00,Sun Rit,Walker,3961 Beechwood Drive,Tonopah,AZ,85354,510,Screwdriver,399,1,399
+2019-02-09 09:09:00,Sun Rit,Walker,3961 Beechwood Drive,Tonopah,AZ,85354,515,Wrench,1100,1,1100
+2019-02-09 09:09:00,Sun Rit,Walker,3961 Beechwood Drive,Tonopah,AZ,85354,504,Screw,50,1,50
+2019-02-09 09:09:00,Sun Rit,Walker,3961 Beechwood Drive,Tonopah,AZ,85354,527,Toolbox,5000,1,5000
+2019-02-09 09:09:00,Sun Rit,Walker,3961 Beechwood Drive,Tonopah,AZ,85354,528,Ladder,8000,1,8000
+2019-02-09 09:09:00,Sun Rit,Walker,3961 Beechwood Drive,Tonopah,AZ,85354,513,Hammer,827,2,1654
+2019-02-09 09:27:00,Mace Windu,Burke,1863 Jackson Avenue,Washington,DC,20593,503,Nut,25,1,25
+2019-02-09 09:27:00,Mace Windu,Burke,1863 Jackson Avenue,Washington,DC,20593,518,Level,1698,1,1698
+2019-02-09 09:27:00,Mace Windu,Burke,1863 Jackson Avenue,Washington,DC,20593,523,Saw,2099,1,2099
+2019-02-09 09:27:00,Mace Windu,Burke,1863 Jackson Avenue,Washington,DC,20593,502,Nail,25,1,25
+2019-02-09 09:27:00,Mace Windu,Burke,1863 Jackson Avenue,Washington,DC,20593,524,Axe,2799,2,5598
+2019-02-09 09:27:00,Mace Windu,Burke,1863 Jackson Avenue,Washington,DC,20593,527,Toolbox,5000,1,5000
+2019-02-09 10:16:00,Wedge,Schmidt,8114 Valley Road,Schurz,NV,89427,504,Screw,50,1,50
+2019-02-09 10:16:00,Wedge,Schmidt,8114 Valley Road,Schurz,NV,89427,510,Screwdriver,399,1,399
+2019-02-09 10:16:00,Wedge,Schmidt,8114 Valley Road,Schurz,NV,89427,503,Nut,25,1,25
+2019-02-09 10:16:00,Wedge,Schmidt,8114 Valley Road,Schurz,NV,89427,523,Saw,2099,1,2099
+2019-02-09 10:16:00,Wedge,Schmidt,8114 Valley Road,Schurz,NV,89427,524,Axe,2799,1,2799
+2019-02-09 10:16:00,Wedge,Schmidt,8114 Valley Road,Schurz,NV,89427,513,Hammer,827,1,827
+2019-02-09 13:29:00,Gold Leader,Elliott,9326 Sycamore Street,Victor,WV,25938,505,Bolt,100,1,100
+2019-02-09 13:29:00,Gold Leader,Elliott,9326 Sycamore Street,Victor,WV,25938,502,Nail,25,1,25
+2019-02-09 13:29:00,Gold Leader,Elliott,9326 Sycamore Street,Victor,WV,25938,525,Hatchet,3599,1,3599
+2019-02-09 14:37:00,Lama Su,Vincent,2114 4th Street,Ivor,VA,23866,528,Ladder,8000,1,8000
+2019-02-09 15:06:00,Jango Fett,Jimenez,3344 Lake Avenue,Norfolk,VA,23505,515,Wrench,1100,1,1100
+2019-02-09 15:06:00,Jango Fett,Jimenez,3344 Lake Avenue,Norfolk,VA,23505,522,Hacksaw,1998,1,1998
+2019-02-09 15:06:00,Jango Fett,Jimenez,3344 Lake Avenue,Norfolk,VA,23505,527,Toolbox,5000,1,5000
+2019-02-09 15:06:00,Jango Fett,Jimenez,3344 Lake Avenue,Norfolk,VA,23505,513,Hammer,827,1,827
+2019-02-09 15:06:00,Jango Fett,Jimenez,3344 Lake Avenue,Norfolk,VA,23505,501,Washer,10,1,10
+2019-02-10 10:12:00,Wedge,Elliott,7110 Strawberry Lane,East Wakefield,NH,03830,510,Screwdriver,399,2,798
+2019-02-10 10:12:00,Wedge,Elliott,7110 Strawberry Lane,East Wakefield,NH,03830,501,Washer,10,1,10
+2019-02-10 10:12:00,Wedge,Elliott,7110 Strawberry Lane,East Wakefield,NH,03830,515,Wrench,1100,1,1100
+2019-02-10 10:12:00,Wedge,Elliott,7110 Strawberry Lane,East Wakefield,NH,03830,504,Screw,50,1,50
+2019-02-10 10:12:00,Wedge,Elliott,7110 Strawberry Lane,East Wakefield,NH,03830,502,Nail,25,1,25
+2019-02-10 10:12:00,Wedge,Elliott,7110 Strawberry Lane,East Wakefield,NH,03830,520,Anvil,1620,1,1620
+2019-02-10 10:16:00,Taun We,Miller,4011 Sycamore Drive,Yellow Jacket,CO,81335,504,Screw,50,1,50
+2019-02-10 10:16:00,Taun We,Miller,4011 Sycamore Drive,Yellow Jacket,CO,81335,505,Bolt,100,3,300
+2019-02-10 10:16:00,Taun We,Miller,4011 Sycamore Drive,Yellow Jacket,CO,81335,508,Bradawl,199,1,199
+2019-02-10 10:37:00,Bib Fortuna,Zhang,9177 West Avenue,Belen,NM,87002,511,Chisel,499,1,499
+2019-02-10 10:37:00,Bib Fortuna,Zhang,9177 West Avenue,Belen,NM,87002,524,Axe,2799,1,2799
+2019-02-10 10:37:00,Bib Fortuna,Zhang,9177 West Avenue,Belen,NM,87002,510,Screwdriver,399,1,399
+2019-02-10 10:37:00,Bib Fortuna,Zhang,9177 West Avenue,Belen,NM,87002,520,Anvil,1620,1,1620
+2019-02-10 10:37:00,Bib Fortuna,Zhang,9177 West Avenue,Belen,NM,87002,518,Level,1698,1,1698
+2019-02-10 10:37:00,Bib Fortuna,Zhang,9177 West Avenue,Belen,NM,87002,514,Plane,1099,1,1099
+2019-02-10 11:41:00,Padme,Le,5873 Briarwood Court,Selden,KS,67757,515,Wrench,1100,1,1100
+2019-02-10 12:51:00,Unkar Plutt,Benson,3640 Magnolia Court,Bryants Store,KY,40921,501,Washer,10,1,10
+2019-02-10 12:51:00,Unkar Plutt,Benson,3640 Magnolia Court,Bryants Store,KY,40921,508,Bradawl,199,1,199
+2019-02-10 14:04:00,Orn Free Taa,Woodward,7670 Madison Street,Terreton,ID,83450,525,Hatchet,3599,1,3599
+2019-02-10 14:04:00,Orn Free Taa,Woodward,7670 Madison Street,Terreton,ID,83450,510,Screwdriver,399,1,399
+2019-02-10 14:04:00,Orn Free Taa,Woodward,7670 Madison Street,Terreton,ID,83450,507,Paint,1800,1,1800
+2019-02-10 14:49:00,Snap,Ingram,6563 Jackson Avenue,Judith Gap,MT,59453,518,Level,1698,1,1698
+2019-02-10 14:49:00,Snap,Ingram,6563 Jackson Avenue,Judith Gap,MT,59453,514,Plane,1099,1,1099
+2019-02-10 14:49:00,Snap,Ingram,6563 Jackson Avenue,Judith Gap,MT,59453,523,Saw,2099,1,2099
+2019-02-10 14:49:00,Snap,Ingram,6563 Jackson Avenue,Judith Gap,MT,59453,505,Bolt,100,1,100
+2019-02-10 16:41:00,Unkar Plutt,Todd,8877 College Street,Washington,DC,20551,516,Mallet,1200,1,1200
+2019-02-11 10:38:00,Rieekan,Alvarez,1387 Route 1,Grand Junction,CO,81505,512,Scraper,799,1,799
+2019-02-11 10:38:00,Rieekan,Alvarez,1387 Route 1,Grand Junction,CO,81505,527,Toolbox,5000,1,5000
+2019-02-11 10:38:00,Rieekan,Alvarez,1387 Route 1,Grand Junction,CO,81505,505,Bolt,100,1,100
+2019-02-11 10:38:00,Rieekan,Alvarez,1387 Route 1,Grand Junction,CO,81505,502,Nail,25,1,25
+2019-02-11 10:38:00,Rieekan,Alvarez,1387 Route 1,Grand Junction,CO,81505,522,Hacksaw,1998,1,1998
+2019-02-11 10:38:00,Rieekan,Alvarez,1387 Route 1,Grand Junction,CO,81505,514,Plane,1099,1,1099
+2019-02-11 11:04:00,Jabba,Jennings,2985 Washington Street,Columbus,OH,43210,511,Chisel,499,1,499
+2019-02-11 11:04:00,Jabba,Jennings,2985 Washington Street,Columbus,OH,43210,525,Hatchet,3599,1,3599
+2019-02-11 11:04:00,Jabba,Jennings,2985 Washington Street,Columbus,OH,43210,515,Wrench,1100,1,1100
+2019-02-11 11:04:00,Jabba,Jennings,2985 Washington Street,Columbus,OH,43210,504,Screw,50,1,50
+2019-02-11 11:04:00,Jabba,Jennings,2985 Washington Street,Columbus,OH,43210,510,Screwdriver,399,1,399
+2019-02-11 11:04:00,Jabba,Jennings,2985 Washington Street,Columbus,OH,43210,501,Washer,10,1,10
+2019-02-11 11:33:00,Clone Commander Cody,Lara,9537 4th Street,Lake Ozark,MO,65049,518,Level,1698,1,1698
+2019-02-11 11:33:00,Clone Commander Cody,Lara,9537 4th Street,Lake Ozark,MO,65049,508,Bradawl,199,1,199
+2019-02-11 11:33:00,Clone Commander Cody,Lara,9537 4th Street,Lake Ozark,MO,65049,515,Wrench,1100,1,1100
+2019-02-11 12:27:00,Snap,Garza,9534 9th Street,Strong,ME,04983,520,Anvil,1620,1,1620
+2019-02-11 12:27:00,Snap,Garza,9534 9th Street,Strong,ME,04983,503,Nut,25,1,25
+2019-02-11 12:27:00,Snap,Garza,9534 9th Street,Strong,ME,04983,514,Plane,1099,1,1099
+2019-02-11 12:27:00,Snap,Garza,9534 9th Street,Strong,ME,04983,506,Sandpaper,300,1,300
+2019-02-11 12:27:00,Snap,Garza,9534 9th Street,Strong,ME,04983,504,Screw,50,1,50
+2019-02-11 12:50:00,Jabba,Rivera,7617 Main Street East,Palmyra,ME,04965,505,Bolt,100,1,100
+2019-02-11 12:50:00,Jabba,Rivera,7617 Main Street East,Palmyra,ME,04965,529,Workbench,30000,1,30000
+2019-02-12 11:41:00,Obi-Wan,Adams,7379 Old York Road,Hunlock Creek,PA,18621,524,Axe,2799,1,2799
+2019-02-12 11:41:00,Obi-Wan,Adams,7379 Old York Road,Hunlock Creek,PA,18621,529,Workbench,30000,1,30000
+2019-02-12 11:41:00,Obi-Wan,Adams,7379 Old York Road,Hunlock Creek,PA,18621,517,Pliers,1599,1,1599
+2019-02-12 11:41:00,Obi-Wan,Adams,7379 Old York Road,Hunlock Creek,PA,18621,511,Chisel,499,1,499
+2019-02-12 11:41:00,Obi-Wan,Adams,7379 Old York Road,Hunlock Creek,PA,18621,510,Screwdriver,399,1,399
+2019-02-12 12:49:00,Rabe,Hunt,7682 Magnolia Court,Clyde,OH,43410,504,Screw,50,1,50
+2019-02-12 14:42:00,Obi-Wan,Oneill,7113 Washington Street,Tererro,NM,87573,528,Ladder,8000,1,8000
+2019-02-12 16:50:00,Sun Rit,Mitchell,3010 Sycamore Drive,Los Angeles,CA,90048,504,Screw,50,1,50
+2019-02-13 11:11:00,Captain Antilles,Jimenez,1677 2nd Street East,Washington,DC,20551,511,Chisel,499,1,499
+2019-02-13 14:05:00,Rieekan,Jimenez,5165 5th Street,Rockbridge,OH,43149,524,Axe,2799,1,2799
+2019-02-13 15:56:00,Fode/Beed,Vincent,8509 Route 44,Joseph,OR,97846,525,Hatchet,3599,1,3599
+2019-02-13 15:56:00,Fode/Beed,Vincent,8509 Route 44,Joseph,OR,97846,527,Toolbox,5000,1,5000
+2019-02-13 15:56:00,Fode/Beed,Vincent,8509 Route 44,Joseph,OR,97846,503,Nut,25,1,25
+2019-02-13 15:56:00,Fode/Beed,Vincent,8509 Route 44,Joseph,OR,97846,505,Bolt,100,1,100
+2019-02-13 17:23:00,Lama Su,Vincent,2114 4th Street,Ivor,VA,23866,509,Clamp,299,2,598
+2019-02-13 17:23:00,Lama Su,Vincent,2114 4th Street,Ivor,VA,23866,506,Sandpaper,300,1,300
+2019-02-13 17:23:00,Lama Su,Vincent,2114 4th Street,Ivor,VA,23866,522,Hacksaw,1998,1,1998
+2019-02-14 09:28:00,Motti,Bass,2326 Brookside Drive,Seven Valleys,PA,17360,516,Mallet,1200,1,1200
+2019-02-14 09:28:00,Motti,Bass,2326 Brookside Drive,Seven Valleys,PA,17360,506,Sandpaper,300,1,300
+2019-02-14 10:39:00,On Medon,Curtis,4469 Valley Road,Caldwell,KS,67022,503,Nut,25,1,25
+2019-02-14 10:39:00,On Medon,Curtis,4469 Valley Road,Caldwell,KS,67022,529,Workbench,30000,1,30000
+2019-02-14 10:39:00,On Medon,Curtis,4469 Valley Road,Caldwell,KS,67022,509,Clamp,299,1,299
+2019-02-14 10:42:00,Darth Maul,Rodriguez,4333 Front Street,Boothbay,ME,04537,525,Hatchet,3599,1,3599
+2019-02-14 12:46:00,Tey How,Mcdaniel,7547 Edgewood Road,Callaway,NE,68825,516,Mallet,1200,1,1200
+2019-02-14 12:46:00,Tey How,Mcdaniel,7547 Edgewood Road,Callaway,NE,68825,514,Plane,1099,1,1099
+2019-02-14 12:46:00,Tey How,Mcdaniel,7547 Edgewood Road,Callaway,NE,68825,507,Paint,1800,1,1800
+2019-02-14 12:46:00,Tey How,Mcdaniel,7547 Edgewood Road,Callaway,NE,68825,510,Screwdriver,399,1,399
+2019-02-14 12:46:00,Tey How,Mcdaniel,7547 Edgewood Road,Callaway,NE,68825,521,Drill,6900,1,6900
+2019-02-14 12:53:00,Rabe,Hunt,7682 Magnolia Court,Clyde,OH,43410,511,Chisel,499,1,499
+2019-02-14 12:53:00,Rabe,Hunt,7682 Magnolia Court,Clyde,OH,43410,507,Paint,1800,3,5400
+2019-02-14 12:53:00,Rabe,Hunt,7682 Magnolia Court,Clyde,OH,43410,510,Screwdriver,399,1,399
+2019-02-14 12:53:00,Rabe,Hunt,7682 Magnolia Court,Clyde,OH,43410,522,Hacksaw,1998,1,1998
+2019-02-14 12:53:00,Rabe,Hunt,7682 Magnolia Court,Clyde,OH,43410,505,Bolt,100,1,100
+2019-02-14 14:34:00,Sun Rit,Burke,8210 9th Street,Waipahu,HI,96797,503,Nut,25,1,25
+2019-02-14 14:34:00,Sun Rit,Burke,8210 9th Street,Waipahu,HI,96797,525,Hatchet,3599,1,3599
+2019-02-14 14:34:00,Sun Rit,Burke,8210 9th Street,Waipahu,HI,96797,516,Mallet,1200,1,1200
+2019-02-14 14:40:00,Obi-Wan,Oneill,7113 Washington Street,Tererro,NM,87573,504,Screw,50,1,50
+2019-02-14 14:40:00,Obi-Wan,Oneill,7113 Washington Street,Tererro,NM,87573,506,Sandpaper,300,1,300
+2019-02-14 15:58:00,Bala-Tik,Walker,7413 College Street,Dresher,PA,19025,512,Scraper,799,1,799
+2019-02-14 15:58:00,Bala-Tik,Walker,7413 College Street,Dresher,PA,19025,514,Plane,1099,1,1099
+2019-02-14 15:58:00,Bala-Tik,Walker,7413 College Street,Dresher,PA,19025,517,Pliers,1599,1,1599
+2019-02-14 15:58:00,Bala-Tik,Walker,7413 College Street,Dresher,PA,19025,528,Ladder,8000,1,8000
+2019-02-14 15:58:00,Bala-Tik,Walker,7413 College Street,Dresher,PA,19025,511,Chisel,499,1,499
+2019-02-14 15:58:00,Bala-Tik,Walker,7413 College Street,Dresher,PA,19025,526,Wire,3700,1,3700
+2019-02-14 15:58:00,Bala-Tik,Walker,7413 College Street,Dresher,PA,19025,504,Screw,50,1,50
+2019-02-14 15:58:00,Bala-Tik,Walker,7413 College Street,Dresher,PA,19025,524,Axe,2799,1,2799
+2019-02-14 17:39:00,Tc-14,Walters,4957 Sycamore Street,Roann,IN,46974,508,Bradawl,199,1,199
+2019-02-14 17:39:00,Tc-14,Walters,4957 Sycamore Street,Roann,IN,46974,510,Screwdriver,399,1,399
+2019-02-14 17:39:00,Tc-14,Walters,4957 Sycamore Street,Roann,IN,46974,506,Sandpaper,300,1,300
+2019-02-14 17:39:00,Tc-14,Walters,4957 Sycamore Street,Roann,IN,46974,505,Bolt,100,1,100
+2019-02-14 17:52:00,Padme,Todd,9619 Beechwood Drive,Stratford,CT,06615,516,Mallet,1200,1,1200
+2019-02-14 17:52:00,Padme,Todd,9619 Beechwood Drive,Stratford,CT,06615,506,Sandpaper,300,1,300
+2019-02-14 17:52:00,Padme,Todd,9619 Beechwood Drive,Stratford,CT,06615,526,Wire,3700,1,3700
+2019-02-15 09:47:00,Piett,Bass,8180 Main Street,Travelers Rest,SC,29690,525,Hatchet,3599,1,3599
+2019-02-15 09:47:00,Piett,Bass,8180 Main Street,Travelers Rest,SC,29690,519,Monkeywrench,2995,1,2995
+2019-02-15 09:47:00,Piett,Bass,8180 Main Street,Travelers Rest,SC,29690,508,Bradawl,199,1,199
+2019-02-15 09:47:00,Piett,Bass,8180 Main Street,Travelers Rest,SC,29690,501,Washer,10,1,10
+2019-02-15 09:47:00,Piett,Bass,8180 Main Street,Travelers Rest,SC,29690,523,Saw,2099,1,2099
+2019-02-15 09:47:00,Piett,Bass,8180 Main Street,Travelers Rest,SC,29690,504,Screw,50,1,50
+2019-02-15 09:47:00,Piett,Bass,8180 Main Street,Travelers Rest,SC,29690,506,Sandpaper,300,1,300
+2019-02-15 11:28:00,Fode/Beed,Adams,2420 Sycamore Street,Harper,OR,97906,505,Bolt,100,1,100
+2019-02-15 11:28:00,Fode/Beed,Adams,2420 Sycamore Street,Harper,OR,97906,527,Toolbox,5000,1,5000
+2019-02-15 12:01:00,Gold Leader,Elliott,9326 Sycamore Street,Victor,WV,25938,502,Nail,25,1,25
+2019-02-15 12:01:00,Gold Leader,Elliott,9326 Sycamore Street,Victor,WV,25938,501,Washer,10,1,10
+2019-02-15 12:01:00,Gold Leader,Elliott,9326 Sycamore Street,Victor,WV,25938,511,Chisel,499,1,499
+2019-02-15 12:01:00,Gold Leader,Elliott,9326 Sycamore Street,Victor,WV,25938,524,Axe,2799,1,2799
+2019-02-15 12:01:00,Gold Leader,Elliott,9326 Sycamore Street,Victor,WV,25938,525,Hatchet,3599,1,3599
+2019-02-15 15:32:00,Snap,Lara,9634 Jefferson Court,Cold Spring,MN,56320,525,Hatchet,3599,2,7198
+2019-02-15 15:32:00,Snap,Lara,9634 Jefferson Court,Cold Spring,MN,56320,524,Axe,2799,1,2799
+2019-02-15 15:32:00,Snap,Lara,9634 Jefferson Court,Cold Spring,MN,56320,520,Anvil,1620,1,1620
+2019-02-15 15:32:00,Snap,Lara,9634 Jefferson Court,Cold Spring,MN,56320,526,Wire,3700,1,3700
+2019-02-15 17:33:00,Lieutenant Mitaka,Oneill,7853 Devonshire Drive,Minneapolis,MN,55403,517,Pliers,1599,1,1599
+2019-02-15 17:33:00,Lieutenant Mitaka,Oneill,7853 Devonshire Drive,Minneapolis,MN,55403,520,Anvil,1620,1,1620
+2019-02-15 17:33:00,Lieutenant Mitaka,Oneill,7853 Devonshire Drive,Minneapolis,MN,55403,503,Nut,25,1,25
+2019-02-15 17:33:00,Lieutenant Mitaka,Oneill,7853 Devonshire Drive,Minneapolis,MN,55403,505,Bolt,100,1,100
+2019-02-16 09:36:00,Obi-Wan,Miller,9760 Edgewood Road,Veedersburg,IN,47987,513,Hammer,827,1,827
+2019-02-16 10:39:00,Snap,Garza,9534 9th Street,Strong,ME,04983,513,Hammer,827,1,827
+2019-02-16 10:39:00,Snap,Garza,9534 9th Street,Strong,ME,04983,521,Drill,6900,1,6900
+2019-02-16 10:39:00,Snap,Garza,9534 9th Street,Strong,ME,04983,505,Bolt,100,1,100
+2019-02-16 10:39:00,Snap,Garza,9534 9th Street,Strong,ME,04983,502,Nail,25,1,25
+2019-02-16 10:44:00,Sola,Francis,8313 Main Street,Central Falls,RI,02863,510,Screwdriver,399,1,399
+2019-02-16 10:53:00,Motti,Thornton,7510 Lexington Court,Arlington,VA,22203,524,Axe,2799,1,2799
+2019-02-16 10:53:00,Motti,Thornton,7510 Lexington Court,Arlington,VA,22203,506,Sandpaper,300,1,300
+2019-02-16 10:53:00,Motti,Thornton,7510 Lexington Court,Arlington,VA,22203,511,Chisel,499,2,998
+2019-02-16 10:53:00,Motti,Thornton,7510 Lexington Court,Arlington,VA,22203,501,Washer,10,1,10
+2019-02-16 10:53:00,Motti,Thornton,7510 Lexington Court,Arlington,VA,22203,508,Bradawl,199,1,199
+2019-02-16 10:53:00,Motti,Thornton,7510 Lexington Court,Arlington,VA,22203,514,Plane,1099,2,2198
+2019-02-16 10:53:00,Motti,Thornton,7510 Lexington Court,Arlington,VA,22203,517,Pliers,1599,1,1599
+2019-02-16 10:53:00,Motti,Thornton,7510 Lexington Court,Arlington,VA,22203,512,Scraper,799,1,799
+2019-02-16 10:53:00,Motti,Thornton,7510 Lexington Court,Arlington,VA,22203,502,Nail,25,1,25
+2019-02-16 10:57:00,Tey How,Barker,6169 Beechwood Drive,Ponce,PR,00717,509,Clamp,299,1,299
+2019-02-16 10:57:00,Tey How,Barker,6169 Beechwood Drive,Ponce,PR,00717,517,Pliers,1599,1,1599
+2019-02-16 10:57:00,Tey How,Barker,6169 Beechwood Drive,Ponce,PR,00717,503,Nut,25,1,25
+2019-02-16 10:57:00,Tey How,Barker,6169 Beechwood Drive,Ponce,PR,00717,513,Hammer,827,1,827
+2019-02-16 10:57:00,Tey How,Barker,6169 Beechwood Drive,Ponce,PR,00717,504,Screw,50,1,50
+2019-02-16 10:57:00,Tey How,Barker,6169 Beechwood Drive,Ponce,PR,00717,502,Nail,25,2,50
+2019-02-16 11:21:00,Rabe,Hunt,7682 Magnolia Court,Clyde,OH,43410,520,Anvil,1620,1,1620
+2019-02-16 12:38:00,Fode/Beed,Vincent,8509 Route 44,Joseph,OR,97846,502,Nail,25,1,25
+2019-02-16 14:10:00,Bala-Tik,Schmidt,3353 Front Street,New Britain,CT,06053,519,Monkeywrench,2995,1,2995
+2019-02-16 14:10:00,Bala-Tik,Schmidt,3353 Front Street,New Britain,CT,06053,502,Nail,25,1,25
+2019-02-16 14:10:00,Bala-Tik,Schmidt,3353 Front Street,New Britain,CT,06053,526,Wire,3700,1,3700
+2019-02-16 16:28:00,Gold Leader,Zhang,9744 Park Avenue,Washington,DC,20202,512,Scraper,799,1,799
+2019-02-16 16:28:00,Gold Leader,Zhang,9744 Park Avenue,Washington,DC,20202,516,Mallet,1200,2,2400
+2019-02-16 16:28:00,Gold Leader,Zhang,9744 Park Avenue,Washington,DC,20202,518,Level,1698,1,1698
+2019-02-16 16:28:00,Gold Leader,Zhang,9744 Park Avenue,Washington,DC,20202,519,Monkeywrench,2995,1,2995
+2019-02-16 16:28:00,Gold Leader,Zhang,9744 Park Avenue,Washington,DC,20202,503,Nut,25,1,25
+2019-02-16 16:28:00,Gold Leader,Zhang,9744 Park Avenue,Washington,DC,20202,504,Screw,50,1,50
+2019-02-16 16:28:00,Gold Leader,Zhang,9744 Park Avenue,Washington,DC,20202,513,Hammer,827,1,827
+2019-02-16 16:28:00,Gold Leader,Zhang,9744 Park Avenue,Washington,DC,20202,510,Screwdriver,399,2,798
+2019-02-16 16:28:00,Gold Leader,Zhang,9744 Park Avenue,Washington,DC,20202,505,Bolt,100,1,100
+2019-02-16 16:28:00,Gold Leader,Zhang,9744 Park Avenue,Washington,DC,20202,506,Sandpaper,300,2,600
+2019-02-16 16:28:00,Gold Leader,Zhang,9744 Park Avenue,Washington,DC,20202,508,Bradawl,199,1,199
+2019-02-16 16:52:00,Darth Maul,Wood,1988 Sycamore Drive,Masterson,TX,79058,509,Clamp,299,1,299
+2019-02-16 16:52:00,Darth Maul,Wood,1988 Sycamore Drive,Masterson,TX,79058,527,Toolbox,5000,1,5000
+2019-02-16 16:52:00,Darth Maul,Wood,1988 Sycamore Drive,Masterson,TX,79058,513,Hammer,827,2,1654
+2019-02-16 16:52:00,Darth Maul,Wood,1988 Sycamore Drive,Masterson,TX,79058,508,Bradawl,199,1,199
+2019-02-16 16:52:00,Darth Maul,Wood,1988 Sycamore Drive,Masterson,TX,79058,525,Hatchet,3599,1,3599
+2019-02-16 16:52:00,Darth Maul,Wood,1988 Sycamore Drive,Masterson,TX,79058,507,Paint,1800,1,1800
+2019-02-16 17:42:00,Darth Maul,Curtis,8779 Front Street,Weston,NE,68070,521,Drill,6900,1,6900
+2019-02-16 17:42:00,Darth Maul,Curtis,8779 Front Street,Weston,NE,68070,518,Level,1698,1,1698
+2019-02-16 17:42:00,Darth Maul,Curtis,8779 Front Street,Weston,NE,68070,507,Paint,1800,1,1800
+2019-02-16 17:42:00,Darth Maul,Curtis,8779 Front Street,Weston,NE,68070,509,Clamp,299,1,299
+2019-02-17 11:21:00,Tc-14,Alvarez,4109 Pheasant Run,Superior,WY,82945,529,Workbench,30000,1,30000
+2019-02-17 11:21:00,Tc-14,Alvarez,4109 Pheasant Run,Superior,WY,82945,522,Hacksaw,1998,1,1998
+2019-02-17 11:21:00,Tc-14,Alvarez,4109 Pheasant Run,Superior,WY,82945,506,Sandpaper,300,1,300
+2019-02-17 11:21:00,Tc-14,Alvarez,4109 Pheasant Run,Superior,WY,82945,509,Clamp,299,1,299
+2019-02-17 11:43:00,Mace Windu,Burke,1863 Jackson Avenue,Washington,DC,20593,511,Chisel,499,1,499
+2019-02-17 11:43:00,Mace Windu,Burke,1863 Jackson Avenue,Washington,DC,20593,502,Nail,25,1,25
+2019-02-17 11:43:00,Mace Windu,Burke,1863 Jackson Avenue,Washington,DC,20593,512,Scraper,799,1,799
+2019-02-17 11:43:00,Mace Windu,Burke,1863 Jackson Avenue,Washington,DC,20593,518,Level,1698,1,1698
+2019-02-17 11:58:00,Captain Antilles,Elliott,6294 Heather Lane,San Juan,PR,00913,512,Scraper,799,1,799
+2019-02-17 11:58:00,Captain Antilles,Elliott,6294 Heather Lane,San Juan,PR,00913,517,Pliers,1599,1,1599
+2019-02-17 11:58:00,Captain Antilles,Elliott,6294 Heather Lane,San Juan,PR,00913,522,Hacksaw,1998,1,1998
+2019-02-17 11:59:00,Motti,Jennings,5447 4th Street,Cascade,MD,21719,505,Bolt,100,1,100
+2019-02-17 11:59:00,Motti,Jennings,5447 4th Street,Cascade,MD,21719,524,Axe,2799,1,2799
+2019-02-17 13:53:00,Tc-14,Curtis,4809 Jefferson Court,Hyden,KY,41749,504,Screw,50,1,50
+2019-02-17 13:53:00,Tc-14,Curtis,4809 Jefferson Court,Hyden,KY,41749,502,Nail,25,2,50
+2019-02-17 13:53:00,Tc-14,Curtis,4809 Jefferson Court,Hyden,KY,41749,503,Nut,25,1,25
+2019-02-17 14:17:00,Snap,Rivera,7148 Jackson Avenue,Albion,RI,02802,502,Nail,25,1,25
+2019-02-17 14:17:00,Snap,Rivera,7148 Jackson Avenue,Albion,RI,02802,514,Plane,1099,1,1099
+2019-02-17 14:17:00,Snap,Rivera,7148 Jackson Avenue,Albion,RI,02802,527,Toolbox,5000,1,5000
+2019-02-17 15:31:00,On Medon,Curtis,1971 Lake Street,Stuart,OK,74570,524,Axe,2799,3,8397
+2019-02-17 15:31:00,On Medon,Curtis,1971 Lake Street,Stuart,OK,74570,528,Ladder,8000,1,8000
+2019-02-17 17:47:00,Rabe,Vincent,3541 3rd Street,Salol,MN,56756,503,Nut,25,1,25
+2019-02-18 09:12:00,On Medon,Hunt,8442 Edgewood Road,Gooding,ID,83330,517,Pliers,1599,1,1599
+2019-02-18 09:12:00,On Medon,Hunt,8442 Edgewood Road,Gooding,ID,83330,501,Washer,10,1,10
+2019-02-18 09:12:00,On Medon,Hunt,8442 Edgewood Road,Gooding,ID,83330,509,Clamp,299,1,299
+2019-02-18 09:12:00,On Medon,Hunt,8442 Edgewood Road,Gooding,ID,83330,505,Bolt,100,2,200
+2019-02-18 09:12:00,On Medon,Hunt,8442 Edgewood Road,Gooding,ID,83330,515,Wrench,1100,2,2200
+2019-02-18 09:12:00,On Medon,Hunt,8442 Edgewood Road,Gooding,ID,83330,518,Level,1698,1,1698
+2019-02-18 09:12:00,On Medon,Hunt,8442 Edgewood Road,Gooding,ID,83330,508,Bradawl,199,1,199
+2019-02-18 09:12:00,On Medon,Hunt,8442 Edgewood Road,Gooding,ID,83330,504,Screw,50,1,50
+2019-02-18 10:15:00,Tey How,Rodriguez,9164 Madison Street,Brick,NJ,08723,513,Hammer,827,1,827
+2019-02-18 10:15:00,Tey How,Rodriguez,9164 Madison Street,Brick,NJ,08723,523,Saw,2099,1,2099
+2019-02-18 10:32:00,Obi-Wan,Miller,9760 Edgewood Road,Veedersburg,IN,47987,511,Chisel,499,1,499
+2019-02-18 10:32:00,Obi-Wan,Miller,9760 Edgewood Road,Veedersburg,IN,47987,526,Wire,3700,1,3700
+2019-02-19 09:07:00,Captain Antilles,Johnston,5491 Strawberry Lane,Pittsburgh,PA,15234,520,Anvil,1620,1,1620
+2019-02-19 09:07:00,Captain Antilles,Johnston,5491 Strawberry Lane,Pittsburgh,PA,15234,512,Scraper,799,1,799
+2019-02-19 09:07:00,Captain Antilles,Johnston,5491 Strawberry Lane,Pittsburgh,PA,15234,506,Sandpaper,300,1,300
+2019-02-19 09:28:00,C-3Po,Doyle,8217 Route 44,Port Royal,SC,29935,524,Axe,2799,1,2799
+2019-02-19 09:28:00,C-3Po,Doyle,8217 Route 44,Port Royal,SC,29935,522,Hacksaw,1998,1,1998
+2019-02-19 09:28:00,C-3Po,Doyle,8217 Route 44,Port Royal,SC,29935,520,Anvil,1620,1,1620
+2019-02-19 09:28:00,C-3Po,Doyle,8217 Route 44,Port Royal,SC,29935,502,Nail,25,1,25
+2019-02-19 09:28:00,C-3Po,Doyle,8217 Route 44,Port Royal,SC,29935,503,Nut,25,1,25
+2019-02-19 09:30:00,Shmi,Gordon,9637 Heather Lane,Cable,WI,54821,528,Ladder,8000,1,8000
+2019-02-19 09:30:00,Shmi,Gordon,9637 Heather Lane,Cable,WI,54821,520,Anvil,1620,2,3240
+2019-02-19 09:30:00,Shmi,Gordon,9637 Heather Lane,Cable,WI,54821,526,Wire,3700,1,3700
+2019-02-19 10:30:00,Plo Koon,Aguilar,5657 Devon Road,Roslyn,WA,98941,513,Hammer,827,2,1654
+2019-02-19 10:30:00,Plo Koon,Aguilar,5657 Devon Road,Roslyn,WA,98941,505,Bolt,100,1,100
+2019-02-19 10:30:00,Plo Koon,Aguilar,5657 Devon Road,Roslyn,WA,98941,508,Bradawl,199,1,199
+2019-02-19 10:30:00,Plo Koon,Aguilar,5657 Devon Road,Roslyn,WA,98941,506,Sandpaper,300,1,300
+2019-02-19 10:53:00,C-3Po,Mcdaniel,8717 Pheasant Run,Monument Valley,UT,84536,510,Screwdriver,399,1,399
+2019-02-19 10:53:00,C-3Po,Mcdaniel,8717 Pheasant Run,Monument Valley,UT,84536,528,Ladder,8000,1,8000
+2019-02-19 11:05:00,Unkar Plutt,Doyle,7541 William Street,Cookeville,TN,38505,521,Drill,6900,1,6900
+2019-02-19 13:33:00,Fode/Beed,Le,2866 Devonshire Drive,Carson,WA,98610,527,Toolbox,5000,1,5000
+2019-02-19 13:33:00,Fode/Beed,Le,2866 Devonshire Drive,Carson,WA,98610,516,Mallet,1200,2,2400
+2019-02-19 13:33:00,Fode/Beed,Le,2866 Devonshire Drive,Carson,WA,98610,514,Plane,1099,2,2198
+2019-02-19 13:33:00,Fode/Beed,Le,2866 Devonshire Drive,Carson,WA,98610,521,Drill,6900,1,6900
+2019-02-19 13:33:00,Fode/Beed,Le,2866 Devonshire Drive,Carson,WA,98610,512,Scraper,799,1,799
+2019-02-19 13:33:00,Fode/Beed,Le,2866 Devonshire Drive,Carson,WA,98610,511,Chisel,499,2,998
+2019-02-19 13:33:00,Fode/Beed,Le,2866 Devonshire Drive,Carson,WA,98610,525,Hatchet,3599,1,3599
+2019-02-19 13:33:00,Fode/Beed,Le,2866 Devonshire Drive,Carson,WA,98610,528,Ladder,8000,1,8000
+2019-02-19 13:33:00,Fode/Beed,Le,2866 Devonshire Drive,Carson,WA,98610,519,Monkeywrench,2995,1,2995
+2019-02-19 13:33:00,Fode/Beed,Le,2866 Devonshire Drive,Carson,WA,98610,508,Bradawl,199,1,199
+2019-02-19 13:33:00,Fode/Beed,Le,2866 Devonshire Drive,Carson,WA,98610,502,Nail,25,1,25
+2019-02-19 13:33:00,Fode/Beed,Le,2866 Devonshire Drive,Carson,WA,98610,507,Paint,1800,1,1800
+2019-02-19 13:33:00,Fode/Beed,Le,2866 Devonshire Drive,Carson,WA,98610,506,Sandpaper,300,1,300
+2019-02-19 14:08:00,Piett,Bass,8180 Main Street,Travelers Rest,SC,29690,513,Hammer,827,1,827
+2019-02-19 15:39:00,Biggs,Todd,5221 Hawthorne Lane,Wytopitlock,ME,04497,507,Paint,1800,1,1800
+2019-02-19 15:39:00,Biggs,Todd,5221 Hawthorne Lane,Wytopitlock,ME,04497,520,Anvil,1620,1,1620
+2019-02-19 15:39:00,Biggs,Todd,5221 Hawthorne Lane,Wytopitlock,ME,04497,504,Screw,50,1,50
+2019-02-19 15:39:00,Biggs,Todd,5221 Hawthorne Lane,Wytopitlock,ME,04497,513,Hammer,827,1,827
+2019-02-19 15:39:00,Biggs,Todd,5221 Hawthorne Lane,Wytopitlock,ME,04497,515,Wrench,1100,1,1100
+2019-02-19 17:18:00,C-3Po,Vincent,1905 Edgewood Road,Dawson,IA,50066,518,Level,1698,1,1698
+2019-02-19 17:18:00,C-3Po,Vincent,1905 Edgewood Road,Dawson,IA,50066,514,Plane,1099,1,1099
+2019-02-19 17:18:00,C-3Po,Vincent,1905 Edgewood Road,Dawson,IA,50066,528,Ladder,8000,1,8000
+2019-02-19 17:41:00,Fode/Beed,Francis,9993 Inverness Drive,Conway,NC,27820,517,Pliers,1599,1,1599
+2019-02-19 17:41:00,Fode/Beed,Francis,9993 Inverness Drive,Conway,NC,27820,510,Screwdriver,399,1,399
+2019-02-19 17:41:00,Fode/Beed,Francis,9993 Inverness Drive,Conway,NC,27820,507,Paint,1800,1,1800
+2019-02-19 17:41:00,Fode/Beed,Francis,9993 Inverness Drive,Conway,NC,27820,525,Hatchet,3599,1,3599
+2019-02-20 09:34:00,Bib Fortuna,Walker,6829 2nd Street,New York,NY,10177,523,Saw,2099,2,4198
+2019-02-20 11:40:00,Shmi,Doyle,4288 Devon Road,Fort Lawn,SC,29714,515,Wrench,1100,1,1100
+2019-02-20 11:40:00,Shmi,Doyle,4288 Devon Road,Fort Lawn,SC,29714,509,Clamp,299,1,299
+2019-02-20 11:40:00,Shmi,Doyle,4288 Devon Road,Fort Lawn,SC,29714,504,Screw,50,1,50
+2019-02-20 11:40:00,Shmi,Doyle,4288 Devon Road,Fort Lawn,SC,29714,522,Hacksaw,1998,1,1998
+2019-02-20 11:40:00,Shmi,Doyle,4288 Devon Road,Fort Lawn,SC,29714,506,Sandpaper,300,1,300
+2019-02-20 11:40:00,Shmi,Doyle,4288 Devon Road,Fort Lawn,SC,29714,523,Saw,2099,1,2099
+2019-02-20 11:40:00,Shmi,Doyle,4288 Devon Road,Fort Lawn,SC,29714,526,Wire,3700,1,3700
+2019-02-20 11:40:00,Shmi,Doyle,4288 Devon Road,Fort Lawn,SC,29714,508,Bradawl,199,1,199
+2019-02-20 13:56:00,Tey How,Jennings,3672 Inverness Drive,Fort Washakie,WY,82514,524,Axe,2799,1,2799
+2019-02-20 13:56:00,Tey How,Jennings,3672 Inverness Drive,Fort Washakie,WY,82514,509,Clamp,299,1,299
+2019-02-20 13:56:00,Tey How,Jennings,3672 Inverness Drive,Fort Washakie,WY,82514,506,Sandpaper,300,1,300
+2019-02-20 13:56:00,Tey How,Jennings,3672 Inverness Drive,Fort Washakie,WY,82514,523,Saw,2099,1,2099
+2019-02-20 14:33:00,Taun We,Vincent,2331 Smith Street,Londonderry,VT,05148,509,Clamp,299,1,299
+2019-02-20 14:33:00,Taun We,Vincent,2331 Smith Street,Londonderry,VT,05148,510,Screwdriver,399,1,399
+2019-02-20 14:33:00,Taun We,Vincent,2331 Smith Street,Londonderry,VT,05148,527,Toolbox,5000,1,5000
+2019-02-20 16:40:00,Tey How,Jennings,3672 Inverness Drive,Fort Washakie,WY,82514,521,Drill,6900,1,6900
+2019-02-20 16:40:00,Tey How,Jennings,3672 Inverness Drive,Fort Washakie,WY,82514,505,Bolt,100,1,100
+2019-02-20 16:40:00,Tey How,Jennings,3672 Inverness Drive,Fort Washakie,WY,82514,527,Toolbox,5000,1,5000
+2019-02-20 16:40:00,Tey How,Jennings,3672 Inverness Drive,Fort Washakie,WY,82514,511,Chisel,499,1,499
+2019-02-20 16:40:00,Tey How,Jennings,3672 Inverness Drive,Fort Washakie,WY,82514,528,Ladder,8000,1,8000
+2019-02-20 16:40:00,Tey How,Jennings,3672 Inverness Drive,Fort Washakie,WY,82514,515,Wrench,1100,1,1100
+2019-02-20 16:40:00,Tey How,Jennings,3672 Inverness Drive,Fort Washakie,WY,82514,502,Nail,25,1,25
+2019-02-20 16:40:00,Tey How,Jennings,3672 Inverness Drive,Fort Washakie,WY,82514,525,Hatchet,3599,1,3599
+2019-02-20 16:40:00,Tey How,Jennings,3672 Inverness Drive,Fort Washakie,WY,82514,526,Wire,3700,1,3700
+2019-02-20 16:40:00,Tey How,Jennings,3672 Inverness Drive,Fort Washakie,WY,82514,503,Nut,25,1,25
+2019-02-20 16:40:00,Tey How,Jennings,3672 Inverness Drive,Fort Washakie,WY,82514,507,Paint,1800,1,1800
+2019-02-20 16:40:00,Tey How,Jennings,3672 Inverness Drive,Fort Washakie,WY,82514,524,Axe,2799,1,2799
+2019-02-21 09:44:00,Tc-14,Curtis,4809 Jefferson Court,Hyden,KY,41749,519,Monkeywrench,2995,1,2995
+2019-02-21 09:44:00,Tc-14,Curtis,4809 Jefferson Court,Hyden,KY,41749,529,Workbench,30000,1,30000
+2019-02-21 09:44:00,Tc-14,Curtis,4809 Jefferson Court,Hyden,KY,41749,521,Drill,6900,1,6900
+2019-02-21 09:44:00,Tc-14,Curtis,4809 Jefferson Court,Hyden,KY,41749,528,Ladder,8000,1,8000
+2019-02-21 09:44:00,Tc-14,Curtis,4809 Jefferson Court,Hyden,KY,41749,523,Saw,2099,1,2099
+2019-02-21 09:44:00,Tc-14,Curtis,4809 Jefferson Court,Hyden,KY,41749,501,Washer,10,1,10
+2019-02-21 09:44:00,Tc-14,Curtis,4809 Jefferson Court,Hyden,KY,41749,505,Bolt,100,1,100
+2019-02-21 09:44:00,Tc-14,Curtis,4809 Jefferson Court,Hyden,KY,41749,503,Nut,25,1,25
+2019-02-21 12:49:00,Captain Antilles,Rodriguez,4648 Lake Street,Barton City,MI,48705,503,Nut,25,1,25
+2019-02-21 13:15:00,Nute Gunray,Le,2553 Inverness Drive,South San Francisco,CA,94080,522,Hacksaw,1998,1,1998
+2019-02-21 13:15:00,Nute Gunray,Le,2553 Inverness Drive,South San Francisco,CA,94080,513,Hammer,827,2,1654
+2019-02-21 13:15:00,Nute Gunray,Le,2553 Inverness Drive,South San Francisco,CA,94080,517,Pliers,1599,1,1599
+2019-02-21 13:15:00,Nute Gunray,Le,2553 Inverness Drive,South San Francisco,CA,94080,512,Scraper,799,1,799
+2019-02-21 13:17:00,C-3Po,Walker,6648 Canterbury Drive,O Brien,OR,97534,521,Drill,6900,1,6900
+2019-02-21 13:17:00,C-3Po,Walker,6648 Canterbury Drive,O Brien,OR,97534,523,Saw,2099,1,2099
+2019-02-21 13:17:00,C-3Po,Walker,6648 Canterbury Drive,O Brien,OR,97534,519,Monkeywrench,2995,1,2995
+2019-02-21 14:21:00,Darth Maul,Gordon,3869 Franklin Court,Harbeson,DE,19951,521,Drill,6900,1,6900
+2019-02-21 14:21:00,Darth Maul,Gordon,3869 Franklin Court,Harbeson,DE,19951,528,Ladder,8000,1,8000
+2019-02-21 14:21:00,Darth Maul,Gordon,3869 Franklin Court,Harbeson,DE,19951,506,Sandpaper,300,1,300
+2019-02-21 16:37:00,Motti,Bass,2326 Brookside Drive,Seven Valleys,PA,17360,504,Screw,50,1,50
+2019-02-21 16:37:00,Motti,Bass,2326 Brookside Drive,Seven Valleys,PA,17360,521,Drill,6900,1,6900
+2019-02-21 16:55:00,Fode/Beed,Jimenez,7721 College Street,East Chicago,IN,46312,504,Screw,50,1,50
+2019-02-21 17:01:00,Biggs,Todd,5221 Hawthorne Lane,Wytopitlock,ME,04497,509,Clamp,299,1,299
+2019-02-21 17:51:00,Bib Fortuna,Doyle,3286 Beechwood Drive,Burlington,VT,05401,515,Wrench,1100,1,1100
+2019-02-21 17:51:00,Bib Fortuna,Doyle,3286 Beechwood Drive,Burlington,VT,05401,523,Saw,2099,1,2099
+2019-02-21 17:51:00,Bib Fortuna,Doyle,3286 Beechwood Drive,Burlington,VT,05401,510,Screwdriver,399,1,399
+2019-02-22 09:14:00,Sun Rit,Walker,3828 Brookside Drive,Wales Center,NY,14169,519,Monkeywrench,2995,1,2995
+2019-02-22 09:14:00,Sun Rit,Walker,3828 Brookside Drive,Wales Center,NY,14169,523,Saw,2099,1,2099
+2019-02-22 09:42:00,Senator Ask Aak,Lara,7926 Front Street,Big Lake,TX,76932,517,Pliers,1599,2,3198
+2019-02-22 09:42:00,Senator Ask Aak,Lara,7926 Front Street,Big Lake,TX,76932,522,Hacksaw,1998,1,1998
+2019-02-22 09:42:00,Senator Ask Aak,Lara,7926 Front Street,Big Lake,TX,76932,508,Bradawl,199,1,199
+2019-02-22 09:42:00,Senator Ask Aak,Lara,7926 Front Street,Big Lake,TX,76932,506,Sandpaper,300,1,300
+2019-02-22 09:43:00,Captain Antilles,Jimenez,1677 2nd Street East,Washington,DC,20551,520,Anvil,1620,1,1620
+2019-02-22 09:43:00,Captain Antilles,Jimenez,1677 2nd Street East,Washington,DC,20551,516,Mallet,1200,1,1200
+2019-02-22 09:43:00,Captain Antilles,Jimenez,1677 2nd Street East,Washington,DC,20551,526,Wire,3700,1,3700
+2019-02-22 09:43:00,Captain Antilles,Jimenez,1677 2nd Street East,Washington,DC,20551,513,Hammer,827,1,827
+2019-02-22 09:43:00,Captain Antilles,Jimenez,1677 2nd Street East,Washington,DC,20551,515,Wrench,1100,1,1100
+2019-02-22 09:43:00,Captain Antilles,Jimenez,1677 2nd Street East,Washington,DC,20551,504,Screw,50,1,50
+2019-02-22 09:43:00,Captain Antilles,Jimenez,1677 2nd Street East,Washington,DC,20551,518,Level,1698,1,1698
+2019-02-22 09:57:00,Lieutenant Mitaka,Rodriguez,3816 5th Street East,Smiths Grove,KY,42171,502,Nail,25,1,25
+2019-02-22 09:57:00,Lieutenant Mitaka,Rodriguez,3816 5th Street East,Smiths Grove,KY,42171,501,Washer,10,1,10
+2019-02-22 09:57:00,Lieutenant Mitaka,Rodriguez,3816 5th Street East,Smiths Grove,KY,42171,510,Screwdriver,399,1,399
+2019-02-22 09:57:00,Lieutenant Mitaka,Rodriguez,3816 5th Street East,Smiths Grove,KY,42171,504,Screw,50,1,50
+2019-02-22 12:22:00,Orn Free Taa,Greene,1746 Route 44,Wiggins,CO,80654,509,Clamp,299,1,299
+2019-02-22 12:22:00,Orn Free Taa,Greene,1746 Route 44,Wiggins,CO,80654,514,Plane,1099,1,1099
+2019-02-22 13:01:00,Clone Commander Cody,Benson,8861 Lexington Court,Great Barrington,MA,01230,503,Nut,25,1,25
+2019-02-22 13:54:00,Mace Windu,Pollard,8139 Smith Street,Clines Corners,NM,87070,506,Sandpaper,300,1,300
+2019-02-22 13:54:00,Mace Windu,Pollard,8139 Smith Street,Clines Corners,NM,87070,505,Bolt,100,1,100
+2019-02-22 13:54:00,Mace Windu,Pollard,8139 Smith Street,Clines Corners,NM,87070,508,Bradawl,199,1,199
+2019-02-22 15:27:00,Bala-Tik,Benson,3204 Jackson Avenue,Teller,AK,99778,528,Ladder,8000,1,8000
+2019-02-22 15:56:00,Tey How,Benson,3306 Edgewood Road,Hallsboro,NC,28442,523,Saw,2099,1,2099
+2019-02-22 15:56:00,Tey How,Benson,3306 Edgewood Road,Hallsboro,NC,28442,520,Anvil,1620,1,1620
+2019-02-22 15:56:00,Tey How,Benson,3306 Edgewood Road,Hallsboro,NC,28442,504,Screw,50,1,50
+2019-02-22 15:56:00,Tey How,Benson,3306 Edgewood Road,Hallsboro,NC,28442,524,Axe,2799,1,2799
+2019-02-22 15:56:00,Tey How,Benson,3306 Edgewood Road,Hallsboro,NC,28442,526,Wire,3700,1,3700
+2019-02-22 17:01:00,Sun Rit,Mitchell,3010 Sycamore Drive,Los Angeles,CA,90048,501,Washer,10,1,10
+2019-02-22 17:01:00,Sun Rit,Mitchell,3010 Sycamore Drive,Los Angeles,CA,90048,520,Anvil,1620,1,1620
+2019-02-22 17:01:00,Sun Rit,Mitchell,3010 Sycamore Drive,Los Angeles,CA,90048,519,Monkeywrench,2995,1,2995
+2019-02-22 17:01:00,Sun Rit,Mitchell,3010 Sycamore Drive,Los Angeles,CA,90048,503,Nut,25,1,25
+2019-02-22 17:01:00,Sun Rit,Mitchell,3010 Sycamore Drive,Los Angeles,CA,90048,516,Mallet,1200,1,1200
+2019-02-22 17:01:00,Sun Rit,Mitchell,3010 Sycamore Drive,Los Angeles,CA,90048,510,Screwdriver,399,1,399
+2019-02-22 17:28:00,Biggs,Greene,1555 Valley Road,Kahului,HI,96732,522,Hacksaw,1998,1,1998
+2019-02-22 17:28:00,Biggs,Greene,1555 Valley Road,Kahului,HI,96732,529,Workbench,30000,1,30000
+2019-02-22 17:28:00,Biggs,Greene,1555 Valley Road,Kahului,HI,96732,515,Wrench,1100,1,1100
+2019-02-22 17:28:00,Biggs,Greene,1555 Valley Road,Kahului,HI,96732,505,Bolt,100,1,100
+2019-02-22 17:28:00,Biggs,Greene,1555 Valley Road,Kahului,HI,96732,518,Level,1698,1,1698
+2019-02-23 09:01:00,Sun Rit,Walker,3828 Brookside Drive,Wales Center,NY,14169,527,Toolbox,5000,1,5000
+2019-02-23 09:01:00,Sun Rit,Walker,3828 Brookside Drive,Wales Center,NY,14169,508,Bradawl,199,1,199
+2019-02-23 09:01:00,Sun Rit,Walker,3828 Brookside Drive,Wales Center,NY,14169,526,Wire,3700,1,3700
+2019-02-23 09:01:00,Sun Rit,Walker,3828 Brookside Drive,Wales Center,NY,14169,528,Ladder,8000,2,16000
+2019-02-23 09:01:00,Sun Rit,Walker,3828 Brookside Drive,Wales Center,NY,14169,503,Nut,25,1,25
+2019-02-23 09:03:00,Motti,Doyle,5749 Old York,Marble Canyon,AZ,86036,509,Clamp,299,1,299
+2019-02-23 09:03:00,Motti,Doyle,5749 Old York,Marble Canyon,AZ,86036,508,Bradawl,199,1,199
+2019-02-23 09:03:00,Motti,Doyle,5749 Old York,Marble Canyon,AZ,86036,504,Screw,50,1,50
+2019-02-23 10:44:00,Clone Commander Cody,Lara,9537 4th Street,Lake Ozark,MO,65049,511,Chisel,499,1,499
+2019-02-23 10:44:00,Clone Commander Cody,Lara,9537 4th Street,Lake Ozark,MO,65049,525,Hatchet,3599,2,7198
+2019-02-23 10:44:00,Clone Commander Cody,Lara,9537 4th Street,Lake Ozark,MO,65049,505,Bolt,100,1,100
+2019-02-23 10:44:00,Clone Commander Cody,Lara,9537 4th Street,Lake Ozark,MO,65049,520,Anvil,1620,1,1620
+2019-02-23 10:44:00,Clone Commander Cody,Lara,9537 4th Street,Lake Ozark,MO,65049,523,Saw,2099,2,4198
+2019-02-23 10:44:00,Clone Commander Cody,Lara,9537 4th Street,Lake Ozark,MO,65049,517,Pliers,1599,1,1599
+2019-02-23 10:44:00,Clone Commander Cody,Lara,9537 4th Street,Lake Ozark,MO,65049,508,Bradawl,199,1,199
+2019-02-23 10:44:00,Clone Commander Cody,Lara,9537 4th Street,Lake Ozark,MO,65049,522,Hacksaw,1998,1,1998
+2019-02-23 10:44:00,Clone Commander Cody,Lara,9537 4th Street,Lake Ozark,MO,65049,514,Plane,1099,1,1099
+2019-02-23 10:44:00,Clone Commander Cody,Lara,9537 4th Street,Lake Ozark,MO,65049,502,Nail,25,1,25
+2019-02-23 10:44:00,Clone Commander Cody,Lara,9537 4th Street,Lake Ozark,MO,65049,526,Wire,3700,1,3700
+2019-02-23 10:44:00,Clone Commander Cody,Lara,9537 4th Street,Lake Ozark,MO,65049,506,Sandpaper,300,1,300
+2019-02-23 10:44:00,Clone Commander Cody,Lara,9537 4th Street,Lake Ozark,MO,65049,515,Wrench,1100,1,1100
+2019-02-23 10:44:00,Clone Commander Cody,Lara,9537 4th Street,Lake Ozark,MO,65049,501,Washer,10,1,10
+2019-02-23 10:44:00,Clone Commander Cody,Lara,9537 4th Street,Lake Ozark,MO,65049,510,Screwdriver,399,2,798
+2019-02-23 11:08:00,Obi-Wan,Oneill,7113 Washington Street,Tererro,NM,87573,521,Drill,6900,1,6900
+2019-02-23 11:08:00,Obi-Wan,Oneill,7113 Washington Street,Tererro,NM,87573,523,Saw,2099,1,2099
+2019-02-23 11:08:00,Obi-Wan,Oneill,7113 Washington Street,Tererro,NM,87573,525,Hatchet,3599,1,3599
+2019-02-23 11:08:00,Obi-Wan,Oneill,7113 Washington Street,Tererro,NM,87573,515,Wrench,1100,1,1100
+2019-02-23 11:24:00,Orn Free Taa,Burke,896 Lake Street,Tempe,AZ,85283,513,Hammer,827,1,827
+2019-02-23 11:24:00,Orn Free Taa,Burke,896 Lake Street,Tempe,AZ,85283,524,Axe,2799,1,2799
+2019-02-23 11:24:00,Orn Free Taa,Burke,896 Lake Street,Tempe,AZ,85283,505,Bolt,100,1,100
+2019-02-23 11:24:00,Orn Free Taa,Burke,896 Lake Street,Tempe,AZ,85283,510,Screwdriver,399,1,399
+2019-02-23 11:24:00,Orn Free Taa,Burke,896 Lake Street,Tempe,AZ,85283,527,Toolbox,5000,1,5000
+2019-02-23 11:43:00,Lieutenant Mitaka,Schmidt,5798 Williams Street,Bolivar,TN,38008,514,Plane,1099,1,1099
+2019-02-23 11:43:00,Lieutenant Mitaka,Schmidt,5798 Williams Street,Bolivar,TN,38008,502,Nail,25,1,25
+2019-02-23 11:43:00,Lieutenant Mitaka,Schmidt,5798 Williams Street,Bolivar,TN,38008,505,Bolt,100,1,100
+2019-02-23 11:43:00,Lieutenant Mitaka,Schmidt,5798 Williams Street,Bolivar,TN,38008,524,Axe,2799,1,2799
+2019-02-23 12:20:00,On Medon,Hunt,8442 Edgewood Road,Gooding,ID,83330,525,Hatchet,3599,1,3599
+2019-02-23 12:20:00,On Medon,Hunt,8442 Edgewood Road,Gooding,ID,83330,508,Bradawl,199,1,199
+2019-02-23 12:20:00,On Medon,Hunt,8442 Edgewood Road,Gooding,ID,83330,503,Nut,25,2,50
+2019-02-23 12:23:00,Piett,Bass,8180 Main Street,Travelers Rest,SC,29690,503,Nut,25,1,25
+2019-02-23 12:23:00,Piett,Bass,8180 Main Street,Travelers Rest,SC,29690,520,Anvil,1620,1,1620
+2019-02-23 12:23:00,Piett,Bass,8180 Main Street,Travelers Rest,SC,29690,519,Monkeywrench,2995,2,5990
+2019-02-23 12:23:00,Piett,Bass,8180 Main Street,Travelers Rest,SC,29690,509,Clamp,299,1,299
+2019-02-23 12:23:00,Piett,Bass,8180 Main Street,Travelers Rest,SC,29690,526,Wire,3700,1,3700
+2019-02-23 13:21:00,Captain Antilles,Thornton,4842 Fawn Court,Clarkson,NE,68629,503,Nut,25,1,25
+2019-02-23 13:21:00,Captain Antilles,Thornton,4842 Fawn Court,Clarkson,NE,68629,518,Level,1698,1,1698
+2019-02-23 13:21:00,Captain Antilles,Thornton,4842 Fawn Court,Clarkson,NE,68629,501,Washer,10,1,10
+2019-02-23 13:21:00,Captain Antilles,Thornton,4842 Fawn Court,Clarkson,NE,68629,510,Screwdriver,399,1,399
+2019-02-23 13:21:00,Captain Antilles,Thornton,4842 Fawn Court,Clarkson,NE,68629,514,Plane,1099,1,1099
+2019-02-23 13:31:00,On Medon,Curtis,1971 Lake Street,Stuart,OK,74570,526,Wire,3700,1,3700
+2019-02-23 13:31:00,On Medon,Curtis,1971 Lake Street,Stuart,OK,74570,524,Axe,2799,1,2799
+2019-02-23 13:31:00,On Medon,Curtis,1971 Lake Street,Stuart,OK,74570,519,Monkeywrench,2995,1,2995
+2019-02-23 13:31:00,On Medon,Curtis,1971 Lake Street,Stuart,OK,74570,505,Bolt,100,1,100
+2019-02-23 13:31:00,On Medon,Curtis,1971 Lake Street,Stuart,OK,74570,512,Scraper,799,1,799
+2019-02-23 13:59:00,Nute Gunray,Jennings,9525 Route 1,East Orange,NJ,07018,506,Sandpaper,300,1,300
+2019-02-23 13:59:00,Nute Gunray,Jennings,9525 Route 1,East Orange,NJ,07018,503,Nut,25,1,25
+2019-02-23 14:48:00,Dodonna,Garza,3639 Briarwood Court,Tarzan,TX,79783,529,Workbench,30000,1,30000
+2019-02-23 14:48:00,Dodonna,Garza,3639 Briarwood Court,Tarzan,TX,79783,525,Hatchet,3599,1,3599
+2019-02-23 15:19:00,Shmi,Adams,4796 Lake Avenue,Atlanta,GA,30316,524,Axe,2799,1,2799
+2019-02-23 15:19:00,Shmi,Adams,4796 Lake Avenue,Atlanta,GA,30316,523,Saw,2099,1,2099
+2019-02-23 15:19:00,Shmi,Adams,4796 Lake Avenue,Atlanta,GA,30316,511,Chisel,499,1,499
+2019-02-23 15:19:00,Shmi,Adams,4796 Lake Avenue,Atlanta,GA,30316,514,Plane,1099,1,1099
+2019-02-23 15:19:00,Shmi,Adams,4796 Lake Avenue,Atlanta,GA,30316,530,Chainsaw,49999,1,49999
+2019-02-23 17:26:00,Beru,Jimenez,1846 Edgewood Road,Raleigh,NC,27605,518,Level,1698,1,1698
+2019-02-23 17:32:00,Beru,Jimenez,1846 Edgewood Road,Raleigh,NC,27605,526,Wire,3700,1,3700
+2019-02-23 17:32:00,Beru,Jimenez,1846 Edgewood Road,Raleigh,NC,27605,506,Sandpaper,300,1,300
+2019-02-23 17:32:00,Beru,Jimenez,1846 Edgewood Road,Raleigh,NC,27605,521,Drill,6900,1,6900
+2019-02-23 17:32:00,Beru,Jimenez,1846 Edgewood Road,Raleigh,NC,27605,503,Nut,25,1,25
+2019-02-23 17:32:00,Beru,Jimenez,1846 Edgewood Road,Raleigh,NC,27605,527,Toolbox,5000,1,5000
+2019-02-23 17:32:00,Beru,Jimenez,1846 Edgewood Road,Raleigh,NC,27605,501,Washer,10,1,10
+2019-02-24 10:23:00,Taun We,Adams,6097 Heather Lane,Douglas,AK,99824,512,Scraper,799,3,2397
+2019-02-24 10:23:00,Taun We,Adams,6097 Heather Lane,Douglas,AK,99824,505,Bolt,100,3,300
+2019-02-24 10:23:00,Taun We,Adams,6097 Heather Lane,Douglas,AK,99824,501,Washer,10,1,10
+2019-02-24 10:23:00,Taun We,Adams,6097 Heather Lane,Douglas,AK,99824,517,Pliers,1599,1,1599
+2019-02-24 10:23:00,Taun We,Adams,6097 Heather Lane,Douglas,AK,99824,516,Mallet,1200,1,1200
+2019-02-24 10:23:00,Taun We,Adams,6097 Heather Lane,Douglas,AK,99824,504,Screw,50,1,50
+2019-02-24 10:23:00,Taun We,Adams,6097 Heather Lane,Douglas,AK,99824,522,Hacksaw,1998,1,1998
+2019-02-24 10:23:00,Taun We,Adams,6097 Heather Lane,Douglas,AK,99824,514,Plane,1099,1,1099
+2019-02-24 11:24:00,Bala-Tik,Zhang,1559 Lake Avenue,Traver,CA,93673,524,Axe,2799,1,2799
+2019-02-24 11:24:00,Bala-Tik,Zhang,1559 Lake Avenue,Traver,CA,93673,511,Chisel,499,1,499
+2019-02-24 11:24:00,Bala-Tik,Zhang,1559 Lake Avenue,Traver,CA,93673,508,Bradawl,199,1,199
+2019-02-24 11:31:00,Rieekan,Bass,8798 Jackson Avenue,Cotulla,TX,78014,525,Hatchet,3599,1,3599
+2019-02-24 11:31:00,Rieekan,Bass,8798 Jackson Avenue,Cotulla,TX,78014,529,Workbench,30000,1,30000
+2019-02-24 11:31:00,Rieekan,Bass,8798 Jackson Avenue,Cotulla,TX,78014,522,Hacksaw,1998,1,1998
+2019-02-24 11:56:00,Biggs,Todd,5221 Hawthorne Lane,Wytopitlock,ME,04497,516,Mallet,1200,1,1200
+2019-02-24 12:10:00,Sun Rit,Thornton,2413 Inverness Drive,Elizabeth,LA,70638,518,Level,1698,1,1698
+2019-02-24 12:10:00,Sun Rit,Thornton,2413 Inverness Drive,Elizabeth,LA,70638,524,Axe,2799,1,2799
+2019-02-24 12:10:00,Sun Rit,Thornton,2413 Inverness Drive,Elizabeth,LA,70638,505,Bolt,100,1,100
+2019-02-24 12:10:00,Sun Rit,Thornton,2413 Inverness Drive,Elizabeth,LA,70638,509,Clamp,299,1,299
+2019-02-24 13:09:00,Orn Free Taa,Mcbride,7694 9th Street,Monterey,TN,38574,527,Toolbox,5000,1,5000
+2019-02-24 13:09:00,Orn Free Taa,Mcbride,7694 9th Street,Monterey,TN,38574,513,Hammer,827,1,827
+2019-02-24 13:09:00,Orn Free Taa,Mcbride,7694 9th Street,Monterey,TN,38574,522,Hacksaw,1998,2,3996
+2019-02-24 13:09:00,Orn Free Taa,Mcbride,7694 9th Street,Monterey,TN,38574,504,Screw,50,3,150
+2019-02-24 13:09:00,Orn Free Taa,Mcbride,7694 9th Street,Monterey,TN,38574,517,Pliers,1599,1,1599
+2019-02-24 13:09:00,Orn Free Taa,Mcbride,7694 9th Street,Monterey,TN,38574,516,Mallet,1200,1,1200
+2019-02-24 13:09:00,Orn Free Taa,Mcbride,7694 9th Street,Monterey,TN,38574,515,Wrench,1100,1,1100
+2019-02-24 13:09:00,Orn Free Taa,Mcbride,7694 9th Street,Monterey,TN,38574,505,Bolt,100,1,100
+2019-02-24 13:09:00,Orn Free Taa,Mcbride,7694 9th Street,Monterey,TN,38574,521,Drill,6900,1,6900
+2019-02-24 13:09:00,Orn Free Taa,Mcbride,7694 9th Street,Monterey,TN,38574,510,Screwdriver,399,1,399
+2019-02-24 13:17:00,Tc-14,Rodriguez,3572 Franklin Court,Franklin,PA,16323,528,Ladder,8000,1,8000
+2019-02-24 13:17:00,Tc-14,Rodriguez,3572 Franklin Court,Franklin,PA,16323,520,Anvil,1620,1,1620
+2019-02-24 13:17:00,Tc-14,Rodriguez,3572 Franklin Court,Franklin,PA,16323,505,Bolt,100,1,100
+2019-02-24 13:56:00,Unkar Plutt,Jennings,5295 4th Street South,Quinton,AL,35130,513,Hammer,827,1,827
+2019-02-24 13:56:00,Unkar Plutt,Jennings,5295 4th Street South,Quinton,AL,35130,510,Screwdriver,399,1,399
+2019-02-24 13:56:00,Unkar Plutt,Jennings,5295 4th Street South,Quinton,AL,35130,528,Ladder,8000,1,8000
+2019-02-24 13:56:00,Unkar Plutt,Jennings,5295 4th Street South,Quinton,AL,35130,512,Scraper,799,1,799
+2019-02-24 13:58:00,C-3Po,Doyle,8217 Route 44,Port Royal,SC,29935,519,Monkeywrench,2995,1,2995
+2019-02-24 13:58:00,C-3Po,Doyle,8217 Route 44,Port Royal,SC,29935,521,Drill,6900,1,6900
+2019-02-24 13:58:00,C-3Po,Doyle,8217 Route 44,Port Royal,SC,29935,503,Nut,25,1,25
+2019-02-24 13:58:00,C-3Po,Doyle,8217 Route 44,Port Royal,SC,29935,520,Anvil,1620,1,1620
+2019-02-24 13:58:00,C-3Po,Doyle,8217 Route 44,Port Royal,SC,29935,508,Bradawl,199,1,199
+2019-02-24 13:58:00,C-3Po,Doyle,8217 Route 44,Port Royal,SC,29935,527,Toolbox,5000,2,10000
+2019-02-24 13:58:00,C-3Po,Doyle,8217 Route 44,Port Royal,SC,29935,528,Ladder,8000,1,8000
+2019-02-24 13:58:00,C-3Po,Doyle,8217 Route 44,Port Royal,SC,29935,515,Wrench,1100,1,1100
+2019-02-24 13:58:00,C-3Po,Doyle,8217 Route 44,Port Royal,SC,29935,514,Plane,1099,1,1099
+2019-02-24 14:09:00,Piett,Mcbride,9892 West Avenue,Seaside,OR,97138,508,Bradawl,199,1,199
+2019-02-24 14:47:00,Beru,Walters,2805 Main Street,Frederick,SD,57441,520,Anvil,1620,1,1620
+2019-02-24 14:47:00,Beru,Walters,2805 Main Street,Frederick,SD,57441,505,Bolt,100,1,100
+2019-02-24 16:01:00,Orn Free Taa,Zhang,6043 Strawberry Lane,Patterson,AR,72123,509,Clamp,299,1,299
+2019-02-24 17:33:00,Obi-Wan,Todd,3002 Jackson Avenue,Margie,MN,56658,525,Hatchet,3599,2,7198
+2019-02-24 17:33:00,Obi-Wan,Todd,3002 Jackson Avenue,Margie,MN,56658,524,Axe,2799,1,2799
+2019-02-24 17:34:00,Piett,Ferguson,3652 Front Street,Talmage,UT,84073,511,Chisel,499,1,499
+2019-02-24 17:34:00,Piett,Ferguson,3652 Front Street,Talmage,UT,84073,512,Scraper,799,1,799
+2019-02-24 17:34:00,Piett,Ferguson,3652 Front Street,Talmage,UT,84073,502,Nail,25,1,25
+2019-02-24 17:34:00,Piett,Ferguson,3652 Front Street,Talmage,UT,84073,506,Sandpaper,300,1,300
+2019-02-24 17:34:00,Piett,Ferguson,3652 Front Street,Talmage,UT,84073,501,Washer,10,2,20
+2019-02-25 09:39:00,Bala-Tik,Rodriguez,7381 3rd Street,Wagner,SD,57380,514,Plane,1099,1,1099
+2019-02-25 10:41:00,Taun We,Rivera,5813 Prospect Street,Yeso,NM,88136,523,Saw,2099,1,2099
+2019-02-25 10:41:00,Taun We,Rivera,5813 Prospect Street,Yeso,NM,88136,510,Screwdriver,399,1,399
+2019-02-25 10:41:00,Taun We,Rivera,5813 Prospect Street,Yeso,NM,88136,517,Pliers,1599,1,1599
+2019-02-25 10:41:00,Taun We,Rivera,5813 Prospect Street,Yeso,NM,88136,527,Toolbox,5000,1,5000
+2019-02-25 10:41:00,Taun We,Rivera,5813 Prospect Street,Yeso,NM,88136,507,Paint,1800,1,1800
+2019-02-25 10:41:00,Taun We,Rivera,5813 Prospect Street,Yeso,NM,88136,511,Chisel,499,1,499
+2019-02-25 10:41:00,Taun We,Rivera,5813 Prospect Street,Yeso,NM,88136,512,Scraper,799,1,799
+2019-02-25 10:41:00,Taun We,Rivera,5813 Prospect Street,Yeso,NM,88136,503,Nut,25,1,25
+2019-02-25 10:41:00,Taun We,Rivera,5813 Prospect Street,Yeso,NM,88136,515,Wrench,1100,1,1100
+2019-02-25 11:13:00,Dodonna,Johnston,5917 3rd Street East,Dundee,MI,48131,523,Saw,2099,2,4198
+2019-02-25 11:13:00,Dodonna,Johnston,5917 3rd Street East,Dundee,MI,48131,515,Wrench,1100,1,1100
+2019-02-25 11:13:00,Dodonna,Johnston,5917 3rd Street East,Dundee,MI,48131,527,Toolbox,5000,1,5000
+2019-02-25 11:37:00,Snap,Ingram,6563 Jackson Avenue,Judith Gap,MT,59453,518,Level,1698,1,1698
+2019-02-25 11:37:00,Snap,Ingram,6563 Jackson Avenue,Judith Gap,MT,59453,530,Chainsaw,49999,1,49999
+2019-02-25 14:24:00,Lieutenant Mitaka,Oneill,1110 2nd Street,Kenyon,RI,02836,515,Wrench,1100,1,1100
+2019-02-25 14:24:00,Lieutenant Mitaka,Oneill,1110 2nd Street,Kenyon,RI,02836,507,Paint,1800,1,1800
+2019-02-25 17:39:00,Tey How,Mccarthy,5313 9th Street,Memphis,TN,38104,508,Bradawl,199,3,597
+2019-02-25 17:39:00,Tey How,Mccarthy,5313 9th Street,Memphis,TN,38104,514,Plane,1099,1,1099
+2019-02-25 17:39:00,Tey How,Mccarthy,5313 9th Street,Memphis,TN,38104,510,Screwdriver,399,1,399
+2019-02-25 17:39:00,Tey How,Mccarthy,5313 9th Street,Memphis,TN,38104,512,Scraper,799,1,799
+2019-02-25 17:39:00,Tey How,Mccarthy,5313 9th Street,Memphis,TN,38104,502,Nail,25,1,25
+2019-02-25 17:39:00,Tey How,Mccarthy,5313 9th Street,Memphis,TN,38104,513,Hammer,827,2,1654
+2019-02-25 17:39:00,Tey How,Mccarthy,5313 9th Street,Memphis,TN,38104,504,Screw,50,2,100
+2019-02-25 17:39:00,Tey How,Mccarthy,5313 9th Street,Memphis,TN,38104,511,Chisel,499,1,499
+2019-02-25 17:39:00,Tey How,Mccarthy,5313 9th Street,Memphis,TN,38104,523,Saw,2099,1,2099
+2019-02-25 17:39:00,Tey How,Mccarthy,5313 9th Street,Memphis,TN,38104,519,Monkeywrench,2995,1,2995
+2019-02-25 17:45:00,Unkar Plutt,Mcbride,9487 Devonshire Drive,East Orange,NJ,07018,525,Hatchet,3599,1,3599
+2019-02-25 17:45:00,Unkar Plutt,Mcbride,9487 Devonshire Drive,East Orange,NJ,07018,528,Ladder,8000,1,8000
+2019-02-25 17:45:00,Unkar Plutt,Mcbride,9487 Devonshire Drive,East Orange,NJ,07018,505,Bolt,100,2,200
+2019-02-25 17:45:00,Unkar Plutt,Mcbride,9487 Devonshire Drive,East Orange,NJ,07018,526,Wire,3700,2,7400
+2019-02-25 17:45:00,Unkar Plutt,Mcbride,9487 Devonshire Drive,East Orange,NJ,07018,516,Mallet,1200,2,2400
+2019-02-25 17:45:00,Unkar Plutt,Mcbride,9487 Devonshire Drive,East Orange,NJ,07018,510,Screwdriver,399,1,399
+2019-02-26 10:11:00,Padme,Todd,9619 Beechwood Drive,Stratford,CT,06615,510,Screwdriver,399,2,798
+2019-02-26 10:11:00,Padme,Todd,9619 Beechwood Drive,Stratford,CT,06615,505,Bolt,100,1,100
+2019-02-26 10:49:00,Unkar Plutt,Doyle,7541 William Street,Cookeville,TN,38505,501,Washer,10,1,10
+2019-02-26 10:49:00,Unkar Plutt,Doyle,7541 William Street,Cookeville,TN,38505,519,Monkeywrench,2995,1,2995
+2019-02-26 10:49:00,Unkar Plutt,Doyle,7541 William Street,Cookeville,TN,38505,505,Bolt,100,1,100
+2019-02-26 12:16:00,Taun We,Adams,6097 Heather Lane,Douglas,AK,99824,504,Screw,50,1,50
+2019-02-26 12:16:00,Taun We,Adams,6097 Heather Lane,Douglas,AK,99824,518,Level,1698,1,1698
+2019-02-26 12:24:00,Lieutenant Mitaka,Schmidt,5798 Williams Street,Bolivar,TN,38008,525,Hatchet,3599,1,3599
+2019-02-26 12:24:00,Lieutenant Mitaka,Schmidt,5798 Williams Street,Bolivar,TN,38008,503,Nut,25,1,25
+2019-02-26 12:24:00,Lieutenant Mitaka,Schmidt,5798 Williams Street,Bolivar,TN,38008,508,Bradawl,199,1,199
+2019-02-26 12:24:00,Lieutenant Mitaka,Schmidt,5798 Williams Street,Bolivar,TN,38008,509,Clamp,299,1,299
+2019-02-26 13:39:00,Lieutenant Mitaka,Oneill,7853 Devonshire Drive,Minneapolis,MN,55403,526,Wire,3700,1,3700
+2019-02-26 13:39:00,Lieutenant Mitaka,Oneill,7853 Devonshire Drive,Minneapolis,MN,55403,515,Wrench,1100,1,1100
+2019-02-26 13:39:00,Lieutenant Mitaka,Oneill,7853 Devonshire Drive,Minneapolis,MN,55403,520,Anvil,1620,1,1620
+2019-02-26 16:21:00,Bala-Tik,Lara,4007 Valley Road,Greensboro,NC,27405,515,Wrench,1100,1,1100
+2019-02-26 16:21:00,Bala-Tik,Lara,4007 Valley Road,Greensboro,NC,27405,518,Level,1698,1,1698
+2019-02-26 16:21:00,Bala-Tik,Lara,4007 Valley Road,Greensboro,NC,27405,516,Mallet,1200,1,1200
+2019-02-26 16:21:00,Bala-Tik,Lara,4007 Valley Road,Greensboro,NC,27405,508,Bradawl,199,1,199
+2019-02-26 16:21:00,Bala-Tik,Lara,4007 Valley Road,Greensboro,NC,27405,506,Sandpaper,300,2,600
+2019-02-26 16:21:00,Bala-Tik,Lara,4007 Valley Road,Greensboro,NC,27405,512,Scraper,799,1,799
+2019-02-26 17:10:00,Jabba,Adams,1313 5th Street,Lakeland,MI,48143,523,Saw,2099,1,2099
+2019-02-26 17:10:00,Jabba,Adams,1313 5th Street,Lakeland,MI,48143,520,Anvil,1620,1,1620
+2019-02-26 17:10:00,Jabba,Adams,1313 5th Street,Lakeland,MI,48143,503,Nut,25,1,25
+2019-02-26 17:10:00,Jabba,Adams,1313 5th Street,Lakeland,MI,48143,524,Axe,2799,1,2799
+2019-02-26 17:10:00,Jabba,Adams,1313 5th Street,Lakeland,MI,48143,521,Drill,6900,1,6900
+2019-02-26 17:10:00,Jabba,Adams,1313 5th Street,Lakeland,MI,48143,516,Mallet,1200,1,1200
+2019-02-26 17:10:00,Jabba,Adams,1313 5th Street,Lakeland,MI,48143,502,Nail,25,1,25
+2019-02-26 17:46:00,Sun Rit,Burke,8210 9th Street,Waipahu,HI,96797,502,Nail,25,1,25
+2019-02-27 11:01:00,Padme,Todd,7428 West Avenue,Scotland,IN,47457,516,Mallet,1200,2,2400
+2019-02-27 11:01:00,Padme,Todd,7428 West Avenue,Scotland,IN,47457,507,Paint,1800,1,1800
+2019-02-27 11:01:00,Padme,Todd,7428 West Avenue,Scotland,IN,47457,504,Screw,50,1,50
+2019-02-27 11:01:00,Padme,Todd,7428 West Avenue,Scotland,IN,47457,501,Washer,10,1,10
+2019-02-27 11:22:00,Snap,Jimenez,4890 4th Street,Belgrade,MO,63622,507,Paint,1800,1,1800
+2019-02-27 11:22:00,Snap,Jimenez,4890 4th Street,Belgrade,MO,63622,523,Saw,2099,1,2099
+2019-02-27 12:55:00,Bala-Tik,Lara,4007 Valley Road,Greensboro,NC,27405,523,Saw,2099,1,2099
+2019-02-27 13:09:00,Rabe,Thornton,2133 Edgewood Road,Red Lodge,MT,59068,502,Nail,25,1,25
+2019-02-27 13:09:00,Rabe,Thornton,2133 Edgewood Road,Red Lodge,MT,59068,504,Screw,50,1,50
+2019-02-27 14:02:00,Rieekan,Benson,6893 Front Street,Millwood,VA,22646,525,Hatchet,3599,1,3599
+2019-02-27 14:02:00,Rieekan,Benson,6893 Front Street,Millwood,VA,22646,524,Axe,2799,1,2799
+2019-02-27 14:02:00,Rieekan,Benson,6893 Front Street,Millwood,VA,22646,511,Chisel,499,1,499
+2019-02-27 14:02:00,Rieekan,Benson,6893 Front Street,Millwood,VA,22646,506,Sandpaper,300,1,300
+2019-02-27 14:02:00,Rieekan,Benson,6893 Front Street,Millwood,VA,22646,520,Anvil,1620,1,1620
+2019-02-27 14:54:00,Colonel Datoo,Zhang,3165 Lake Street,Central Lake,MI,49622,520,Anvil,1620,1,1620
+2019-02-27 14:54:00,Colonel Datoo,Zhang,3165 Lake Street,Central Lake,MI,49622,502,Nail,25,1,25
+2019-02-27 17:30:00,Rey,Miller,9379 Beechwood Drive,Petersburg,OH,44454,528,Ladder,8000,1,8000
+2019-02-27 17:30:00,Rey,Miller,9379 Beechwood Drive,Petersburg,OH,44454,523,Saw,2099,1,2099
+2019-02-27 17:30:00,Rey,Miller,9379 Beechwood Drive,Petersburg,OH,44454,511,Chisel,499,1,499
+2019-02-27 17:30:00,Rey,Miller,9379 Beechwood Drive,Petersburg,OH,44454,508,Bradawl,199,1,199
+2019-02-27 17:30:00,Rey,Miller,9379 Beechwood Drive,Petersburg,OH,44454,517,Pliers,1599,1,1599
+2019-02-27 17:30:00,Rey,Miller,9379 Beechwood Drive,Petersburg,OH,44454,505,Bolt,100,1,100
+2019-02-27 17:30:00,Rey,Miller,9379 Beechwood Drive,Petersburg,OH,44454,519,Monkeywrench,2995,1,2995
+2019-02-27 17:30:00,Rey,Miller,9379 Beechwood Drive,Petersburg,OH,44454,524,Axe,2799,1,2799
+2019-02-28 09:03:00,Clone Commander Cody,Benson,8861 Lexington Court,Great Barrington,MA,01230,507,Paint,1800,1,1800
+2019-02-28 09:23:00,Jabba,Walker,9967 Sycamore Drive,Russell,KY,41169,514,Plane,1099,1,1099
+2019-02-28 09:23:00,Jabba,Walker,9967 Sycamore Drive,Russell,KY,41169,521,Drill,6900,1,6900
+2019-02-28 10:25:00,Motti,Hunt,1919 Smith Street,Hamden,CT,06514,517,Pliers,1599,1,1599
+2019-02-28 10:25:00,Motti,Hunt,1919 Smith Street,Hamden,CT,06514,504,Screw,50,1,50
+2019-02-28 10:25:00,Motti,Hunt,1919 Smith Street,Hamden,CT,06514,528,Ladder,8000,1,8000
+2019-02-28 10:25:00,Motti,Hunt,1919 Smith Street,Hamden,CT,06514,506,Sandpaper,300,1,300
+2019-02-28 10:25:00,Tey How,Barker,4683 Lexington Court,East Wallingford,VT,05742,520,Anvil,1620,1,1620
+2019-02-28 10:25:00,Tey How,Barker,4683 Lexington Court,East Wallingford,VT,05742,514,Plane,1099,1,1099
+2019-02-28 11:56:00,Nute Gunray,Ferguson,7551 Franklin Court,Bartlett,NE,68622,525,Hatchet,3599,1,3599
+2019-02-28 14:14:00,Lama Su,Jennings,1963 Old York,Walnut Cove,NC,27052,508,Bradawl,199,1,199
+2019-02-28 14:14:00,Lama Su,Jennings,1963 Old York,Walnut Cove,NC,27052,517,Pliers,1599,1,1599
+2019-02-28 14:14:00,Lama Su,Jennings,1963 Old York,Walnut Cove,NC,27052,511,Chisel,499,1,499
+2019-02-28 14:14:00,Lama Su,Jennings,1963 Old York,Walnut Cove,NC,27052,515,Wrench,1100,1,1100
+2019-02-28 14:20:00,Senator Ask Aak,Adams,487 Front Street South,Mendota,VA,24270,512,Scraper,799,1,799
+2019-02-28 14:20:00,Senator Ask Aak,Adams,487 Front Street South,Mendota,VA,24270,515,Wrench,1100,1,1100
+2019-02-28 14:20:00,Senator Ask Aak,Adams,487 Front Street South,Mendota,VA,24270,517,Pliers,1599,1,1599
+2019-02-28 14:23:00,Lieutenant Mitaka,Rodriguez,3816 5th Street East,Smiths Grove,KY,42171,521,Drill,6900,1,6900
+2019-02-28 14:23:00,Lieutenant Mitaka,Rodriguez,3816 5th Street East,Smiths Grove,KY,42171,506,Sandpaper,300,1,300
+2019-02-28 14:23:00,Lieutenant Mitaka,Rodriguez,3816 5th Street East,Smiths Grove,KY,42171,502,Nail,25,1,25
+2019-02-28 14:23:00,Lieutenant Mitaka,Rodriguez,3816 5th Street East,Smiths Grove,KY,42171,517,Pliers,1599,1,1599
+2019-02-28 14:23:00,Lieutenant Mitaka,Rodriguez,3816 5th Street East,Smiths Grove,KY,42171,503,Nut,25,1,25
+2019-02-28 14:23:00,Lieutenant Mitaka,Rodriguez,3816 5th Street East,Smiths Grove,KY,42171,513,Hammer,827,1,827
+2019-02-28 14:23:00,Lieutenant Mitaka,Rodriguez,3816 5th Street East,Smiths Grove,KY,42171,508,Bradawl,199,1,199
+2019-02-28 14:49:00,Captain Antilles,Rodriguez,4648 Lake Street,Barton City,MI,48705,516,Mallet,1200,1,1200
+2019-02-28 14:49:00,Captain Antilles,Rodriguez,4648 Lake Street,Barton City,MI,48705,512,Scraper,799,1,799
+2019-02-28 16:02:00,Beru,Todd,7293 9th Street,Bountiful,UT,84010,527,Toolbox,5000,1,5000
+2019-02-28 16:02:00,Beru,Todd,7293 9th Street,Bountiful,UT,84010,507,Paint,1800,1,1800
+2019-02-28 16:02:00,Beru,Todd,7293 9th Street,Bountiful,UT,84010,511,Chisel,499,2,998
+2019-02-28 16:02:00,Beru,Todd,7293 9th Street,Bountiful,UT,84010,515,Wrench,1100,1,1100
+2019-02-28 16:02:00,Beru,Todd,7293 9th Street,Bountiful,UT,84010,513,Hammer,827,1,827
+2019-02-28 16:02:00,Beru,Todd,7293 9th Street,Bountiful,UT,84010,508,Bradawl,199,1,199
+2019-02-28 16:02:00,Beru,Todd,7293 9th Street,Bountiful,UT,84010,509,Clamp,299,1,299
